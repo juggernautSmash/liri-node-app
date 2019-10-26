@@ -1,0 +1,2509 @@
+10/17/19 18:10:947 Log start 
+10/17/19 18:10:947 Looking up movie it 
+10/17/19 18:10:947 command is movie-this it 
+10/17/19 18:10:992 
+            Title: It
+            Release Date: 2017
+            Rating: 7.4
+            Country: USA, Canada
+            Languange: English
+            Plot: In the summer of 1989, a group of bullied kids band together to destroy a shape-shifting monster, which disguises itself as a clown and preys on the children of Derry, their small Maine town.
+            Actors: Jaeden Martell, Jeremy Ray Taylor, Sophia Lillis, Finn Wolfhard
+            Tomatometer: 86%
+             
+10/17/19 18:10:125 App Start 
+10/17/19 18:10:129 No arguments passed running inqirer 
+10/17/19 18:10:256 Running spotify-this 
+10/17/19 18:10:638 
+                    Song name: Circle of Life - From "The Lion King"/ Soundtrack
+                    From the album: The Lion King
+                    Preview URL: null
+                    by Carmen Twillie,Lebo M. 
+10/17/19 18:10:639 
+                    Song name: Circle of Life/Nants' Ingonyama
+                    From the album: The Lion King (Original Motion Picture Soundtrack)
+                    Preview URL: null
+                    by Lindiwe Mkhize,Lebo M. 
+10/17/19 18:10:639 
+                    Song name: Circle of Life - From "The Lion King"/ Soundtrack
+                    From the album: Disney's Greatest Volume 1
+                    Preview URL: null
+                    by Carmen Twillie,Lebo M. 
+10/17/19 18:10:638 
+                    Song name: Circle Of Life
+                    From the album: My Own Home
+                    Preview URL: https://p.scdn.co/mp3-preview/5cda11dac6d3fb7b192052db580846b889ac8fbf?cid=d4831269678f41c6861370eb1e28595c
+                    by Karen Elf 
+10/17/19 18:10:639 
+                    Song name: Circle Of Life
+                    From the album: Love Songs
+                    Preview URL: null
+                    by Elton John 
+10/17/19 18:10:639 
+                    Song name: Circle Of Life - Remastered
+                    From the album: Diamonds (Deluxe)
+                    Preview URL: null
+                    by Elton John 
+10/17/19 18:10:639 
+                    Song name: Circle Of Life
+                    From the album: The Lion King: Original Broadway Cast Recording
+                    Preview URL: null
+                    by Tsidii Le Loka,Ensemble - The Lion King,Lebo M.,Faca Kulu 
+10/17/19 18:10:639 
+                    Song name: Circle of Life (The Lion King)
+                    From the album: Disney Bedtime Lullabies
+                    Preview URL: https://p.scdn.co/mp3-preview/a1f2137388c447402d2358e84c8a7098c7770329?cid=d4831269678f41c6861370eb1e28595c
+                    by Bedtime Lullabies 
+10/17/19 18:10:639 
+                    Song name: Life Is A Circle
+                    From the album: Ways Of The World
+                    Preview URL: https://p.scdn.co/mp3-preview/aaab1e958fb61e42f2f4194675585de599c47185?cid=d4831269678f41c6861370eb1e28595c
+                    by The Movement 
+10/17/19 18:10:639 Song entry is Circle of Life 
+10/17/19 18:10:639 
+                    Song name: Circle of Life
+                    From the album: Disney Peaceful Piano: Motivation
+                    Preview URL: null
+                    by Disney Peaceful Piano 
+10/17/19 18:10:639 
+                    Song name: Circle of Life
+                    From the album: Piano Cover 3
+                    Preview URL: https://p.scdn.co/mp3-preview/a63d0ff9167b473520a661671a7f9fa664b405cc?cid=d4831269678f41c6861370eb1e28595c
+                    by Nazareno Aversa 
+10/17/19 18:10:638 Total entries found: 3044 only showing 20 
+10/17/19 18:10:639 
+                    Song name: Circle of Life
+                    From the album: Piano Classics from the Magic Kingdom
+                    Preview URL: https://p.scdn.co/mp3-preview/ef6622ab0e3d875db5dfa832a59aa644ecacbd22?cid=d4831269678f41c6861370eb1e28595c
+                    by Jon Sarta 
+10/17/19 18:10:639 
+                    Song name: Circle of Life (The Lion King)
+                    From the album: Disney Lullabies (Deluxe Edition)
+                    Preview URL: https://p.scdn.co/mp3-preview/a1f2137388c447402d2358e84c8a7098c7770329?cid=d4831269678f41c6861370eb1e28595c
+                    by Rockabye Lullaby 
+10/17/19 18:10:639 
+                    Song name: Rhythm Of Life
+                    From the album: Circle Of One
+                    Preview URL: null
+                    by Oleta Adams 
+10/17/19 18:10:639 
+                    Song name: Circle of Life (From "The Lion King")
+                    From the album: Circle of Life
+                    Preview URL: https://p.scdn.co/mp3-preview/d51ac2169a9c53d43ab1848a51c3cbbf6713c7ed?cid=d4831269678f41c6861370eb1e28595c
+                    by Taylor Davis 
+10/17/19 18:10:639 
+                    Song name: Circle Of Life
+                    From the album: Circle Of Life
+                    Preview URL: null
+                    by BYU Vocal Point 
+10/17/19 18:10:639 
+                    Song name: Circle of Life - From "The Lion King"/Soundtrack Version
+                    From the album: The Lion King
+                    Preview URL: null
+                    by Elton John 
+10/17/19 18:10:639 
+                    Song name: King Of Pride Rock / Circle Of Life (Reprise)
+                    From the album: The Lion King: Original Broadway Cast Recording
+                    Preview URL: null
+                    by Heather Headley,Jason Raize,Tsidii Le Loka,Max Casella,Tom Alan Robbins,Ensemble - The Lion King,Lebo M.,Geoff Hoyle 
+10/17/19 18:10:640 
+                    Song name: Circle of Life (The Lion King)
+                    From the album: Lullaby Renditions of Disney
+                    Preview URL: https://p.scdn.co/mp3-preview/a1f2137388c447402d2358e84c8a7098c7770329?cid=d4831269678f41c6861370eb1e28595c
+                    by Lullaby Renditions 
+10/17/19 18:10:639 
+                    Song name: Circle of Life/He Lives in You
+                    From the album: Circle of Life/He Lives in You
+                    Preview URL: null
+                    by DCappella 
+10/17/19 18:10:769 results: No concerts found!
+ 
+10/17/19 18:10:593 Looking up movie a bug's life 
+10/17/19 18:10:152 
+            Title: A Bug's Life
+            Release Date: 1998
+            Rating: 7.2
+            Country: USA
+            Languange: English
+            Plot: A misfit ant, looking for "warriors" to save his colony from greedy grasshoppers, recruits a group of bugs that turn out to be an inept circus troupe.
+            Actors: Dave Foley, Kevin Spacey, Julia Louis-Dreyfus, Hayden Panettiere
+            Tomatometer: 92%
+             
+10/17/19 18:10:157 Running spotify-this 
+10/17/19 18:10:557 Total entries found: 560 only showing 20 
+10/17/19 18:10:557 
+                    Song name: I Want It That Way
+                    From the album: Millennium
+                    Preview URL: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=d4831269678f41c6861370eb1e28595c
+                    by Backstreet Boys 
+10/17/19 18:10:557 
+                    Song name: I Want It That Way
+                    From the album: Covers Part IV
+                    Preview URL: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=d4831269678f41c6861370eb1e28595c
+                    by Anthem Lights 
+10/17/19 18:10:557 Song entry is "I Want it That Way" 
+10/17/19 18:10:557 
+                    Song name: I Want It That Way
+                    From the album: I Want It That Way
+                    Preview URL: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=d4831269678f41c6861370eb1e28595c
+                    by Mick Jensen 
+10/17/19 18:10:557 
+                    Song name: I Want It That Way
+                    From the album: The Hits--Chapter One
+                    Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=d4831269678f41c6861370eb1e28595c
+                    by Backstreet Boys 
+10/17/19 18:10:557 
+                    Song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+                    From the album: Poodle Hat
+                    Preview URL: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=d4831269678f41c6861370eb1e28595c
+                    by "Weird Al" Yankovic 
+10/17/19 18:10:558 
+                    Song name: I Want It That Way
+                    From the album: Punk Goes Pop
+                    Preview URL: null
+                    by Dynamite Boy 
+10/17/19 18:10:558 
+                    Song name: I Want It That Way
+                    From the album: Musicbox
+                    Preview URL: https://p.scdn.co/mp3-preview/8523cf42da67b41a5fce8f56c9dfd14d5ecb39a5?cid=d4831269678f41c6861370eb1e28595c
+                    by Nineties Legends 
+10/17/19 18:10:558 
+                    Song name: I Want It That Way - Reimagined
+                    From the album: I Want It That Way (Reimagined)
+                    Preview URL: https://p.scdn.co/mp3-preview/7f612d6ba66571500e981e74bb36e14b9906be77?cid=d4831269678f41c6861370eb1e28595c
+                    by Backstreet Boys 
+10/17/19 18:10:558 
+                    Song name: I Want It That Way
+                    From the album: Under the Covers, Vol. 3
+                    Preview URL: https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=d4831269678f41c6861370eb1e28595c
+                    by Jess and Gabriel 
+10/17/19 18:10:558 
+                    Song name: I Want It That Way
+                    From the album: I Want It That Way
+                    Preview URL: null
+                    by Steel Panther 
+10/17/19 18:10:558 
+                    Song name: I Want It That Way
+                    From the album: Beautiful Dreams
+                    Preview URL: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=d4831269678f41c6861370eb1e28595c
+                    by Tyler and Mark 
+10/17/19 18:10:558 
+                    Song name: I Want It That Way
+                    From the album: Nu Funk
+                    Preview URL: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=d4831269678f41c6861370eb1e28595c
+                    by Scary Pockets,Casey Abrams 
+10/17/19 18:10:558 
+                    Song name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+                    From the album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+                    Preview URL: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=d4831269678f41c6861370eb1e28595c
+                    by Glee Cast 
+10/17/19 18:10:560 
+                    Song name: I Want It That Way
+                    From the album: Cover Sessions, Vol. 2
+                    Preview URL: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=d4831269678f41c6861370eb1e28595c
+                    by Boyce Avenue 
+10/17/19 18:10:558 
+                    Song name: I Want It That Way
+                    From the album: 90 Sweet 90s Hits!
+                    Preview URL: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=d4831269678f41c6861370eb1e28595c
+                    by Backstreet Boys 
+10/17/19 18:10:559 
+                    Song name: I Want It That Way
+                    From the album: NKOTBSB
+                    Preview URL: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=d4831269678f41c6861370eb1e28595c
+                    by Backstreet Boys 
+10/17/19 18:10:560 
+                    Song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+                    From the album: The Essential "Weird Al" Yankovic
+                    Preview URL: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=d4831269678f41c6861370eb1e28595c
+                    by "Weird Al" Yankovic 
+10/17/19 18:10:560 
+                    Song name: I Want It That Way
+                    From the album: I Want It That Way
+                    Preview URL: null
+                    by Manuel Costa 
+10/17/19 18:10:560 
+                    Song name: I Want It That Way
+                    From the album: Selfies on Kodachrome
+                    Preview URL: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=d4831269678f41c6861370eb1e28595c
+                    by Scott Bradlee's Postmodern Jukebox,Shoshana Bean 
+10/17/19 18:10:560 
+                    Song name: I Want It That Way
+                    From the album: I Want It That Way
+                    Preview URL: https://p.scdn.co/mp3-preview/8d1287b933d37b96943a5041ebcd46c328c9a0ce?cid=d4831269678f41c6861370eb1e28595c
+                    by Yshop 
+10/17/19 20:10:693 No arguments passed running inqirer 
+10/17/19 20:10:700 App Start 
+10/17/19 20:10:601 
+                    Venue: The Shed, Palmview,  Australia
+                    Date: 02/22/2020 
+10/17/19 20:10:601 Search results start:
+ 
+10/17/19 20:10:601 Search results end
+ 
+10/17/19 20:10:739 Running spotify-this 
+10/17/19 20:10:154 Song entry is Something 
+10/17/19 20:10:154 Total entries found: 100000 only showing 20 
+10/17/19 20:10:154 
+                    Song name: Say Something
+                    From the album: Is There Anybody Out There?
+                    Preview URL: https://p.scdn.co/mp3-preview/fe73e55ae08bf3395db3e1ba4485533f59faf3ea?cid=d4831269678f41c6861370eb1e28595c
+                    by A Great Big World,Christina Aguilera 
+10/17/19 20:10:154 
+                    Song name: Something Just Like This
+                    From the album: Memories...Do Not Open
+                    Preview URL: https://p.scdn.co/mp3-preview/cb1ae1f9e2f874dd2d19e4c29edb552777eb1e7a?cid=d4831269678f41c6861370eb1e28595c
+                    by The Chainsmokers,Coldplay 
+10/17/19 20:10:154 
+                    Song name: Something Just Like This
+                    From the album: Something Just Like This
+                    Preview URL: https://p.scdn.co/mp3-preview/499eefd42a24ec562c464bd7acfad7ed41eb9179?cid=d4831269678f41c6861370eb1e28595c
+                    by The Chainsmokers,Coldplay 
+10/17/19 20:10:154 
+                    Song name: Something - Remastered 2009
+                    From the album: Abbey Road (Remastered)
+                    Preview URL: null
+                    by The Beatles 
+10/17/19 20:10:155 
+                    Song name: feel something
+                    From the album: feel something
+                    Preview URL: null
+                    by Bea Miller 
+10/17/19 20:10:155 
+                    Song name: Something Like That
+                    From the album: A Place In The Sun
+                    Preview URL: https://p.scdn.co/mp3-preview/65c699904ee47dd5769cf0686d4e54bb629547ee?cid=d4831269678f41c6861370eb1e28595c
+                    by Tim McGraw 
+10/17/19 20:10:155 
+                    Song name: Say Something
+                    From the album: Say Something
+                    Preview URL: https://p.scdn.co/mp3-preview/44072346a65f52cfff68599eaf94848074eab9c0?cid=d4831269678f41c6861370eb1e28595c
+                    by Justin Timberlake,Chris Stapleton 
+10/17/19 20:10:155 
+                    Song name: I'm Something Else
+                    From the album: Here's Something
+                    Preview URL: https://p.scdn.co/mp3-preview/698ec66efb3c56d34f857dbb242da0891c610444?cid=d4831269678f41c6861370eb1e28595c
+                    by SomeThingElseyt 
+10/17/19 20:10:155 
+                    Song name: Something to Be Proud Of
+                    From the album: You Do Your Thing
+                    Preview URL: https://p.scdn.co/mp3-preview/5fb34fb2a56aa3e0d241b2d101f60f50c9fa8ab8?cid=d4831269678f41c6861370eb1e28595c
+                    by Montgomery Gentry 
+10/17/19 20:10:155 
+                    Song name: 20 Something
+                    From the album: Ctrl
+                    Preview URL: https://p.scdn.co/mp3-preview/0c38c04bfe08ce4a924891082662ef8886769634?cid=d4831269678f41c6861370eb1e28595c
+                    by SZA 
+10/17/19 20:10:155 
+                    Song name: I Did Something Bad
+                    From the album: reputation
+                    Preview URL: null
+                    by Taylor Swift 
+10/17/19 20:10:155 
+                    Song name: Breakfast At Tiffany's
+                    From the album: Home
+                    Preview URL: null
+                    by Deep Blue Something 
+10/17/19 20:10:155 
+                    Song name: Something Good Can Work
+                    From the album: Tourist History
+                    Preview URL: https://p.scdn.co/mp3-preview/39cbedcc18290e6e508e2e287caa1d8b4275affd?cid=d4831269678f41c6861370eb1e28595c
+                    by Two Door Cinema Club 
+10/17/19 20:10:155 
+                    Song name: Say Something
+                    From the album: Man of the Woods
+                    Preview URL: https://p.scdn.co/mp3-preview/44072346a65f52cfff68599eaf94848074eab9c0?cid=d4831269678f41c6861370eb1e28595c
+                    by Justin Timberlake,Chris Stapleton 
+10/17/19 20:10:155 
+                    Song name: Feel Something
+                    From the album: Feel Something
+                    Preview URL: https://p.scdn.co/mp3-preview/894cd7e67f7dbd199a251e4b4c7c3db6fd9b2dc1?cid=d4831269678f41c6861370eb1e28595c
+                    by Jaymes Young 
+10/17/19 20:10:155 
+                    Song name: Something to Talk About
+                    From the album: Noise Complaint
+                    Preview URL: https://p.scdn.co/mp3-preview/bef23c026a886bacdb5ad54031a5bf14a28d103b?cid=d4831269678f41c6861370eb1e28595c
+                    by Koe Wetzel 
+10/17/19 20:10:155 
+                    Song name: Shake Something (feat. Joey Purp)
+                    From the album: Shake Something (feat. Joey Purp)
+                    Preview URL: null
+                    by Louis The Child,Joey Purp 
+10/17/19 20:10:156 
+                    Song name: Something's Gotta Give
+                    From the album: Camila
+                    Preview URL: https://p.scdn.co/mp3-preview/4e02807d7b3a264ae8de54debdf52437f8b4b8f7?cid=d4831269678f41c6861370eb1e28595c
+                    by Camila Cabello 
+10/17/19 20:10:156 
+                    Song name: I Feel Like I'm Drowning
+                    From the album: A 20 Something Fuck
+                    Preview URL: null
+                    by Two Feet 
+10/17/19 20:10:156 
+                    Song name: Something About You - ODESZA Remix
+                    From the album: Something About You (The Remixes)
+                    Preview URL: null
+                    by Hayden James,ODESZA 
+10/17/19 20:10:772 Looking up movie Goodfellas 
+10/17/19 20:10:003 
+            Title: Goodfellas
+            Release Date: 1990
+            Rating: 8.7
+            Country: USA
+            Languange: English, Italian
+            Plot: The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito in the Italian-American crime syndicate.
+            Actors: Robert De Niro, Ray Liotta, Joe Pesci, Lorraine Bracco
+            Tomatometer: 96%
+             
+10/17/19 20:10:094 Running spotify-this 
+10/17/19 20:10:671 Song entry is "I Want it That Way" 
+10/17/19 20:10:672 
+                    Song name: I Want It That Way
+                    From the album: The Hits--Chapter One
+                    Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=d4831269678f41c6861370eb1e28595c
+                    by Backstreet Boys 
+10/17/19 20:10:672 Total entries found: 560 only showing 20 
+10/17/19 20:10:672 
+                    Song name: I Want It That Way
+                    From the album: Millennium
+                    Preview URL: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=d4831269678f41c6861370eb1e28595c
+                    by Backstreet Boys 
+10/17/19 20:10:672 
+                    Song name: I Want It That Way
+                    From the album: I Want It That Way
+                    Preview URL: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=d4831269678f41c6861370eb1e28595c
+                    by Mick Jensen 
+10/17/19 20:10:672 
+                    Song name: I Want It That Way
+                    From the album: Covers Part IV
+                    Preview URL: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=d4831269678f41c6861370eb1e28595c
+                    by Anthem Lights 
+10/17/19 20:10:672 
+                    Song name: I Want It That Way - Reimagined
+                    From the album: I Want It That Way (Reimagined)
+                    Preview URL: https://p.scdn.co/mp3-preview/7f612d6ba66571500e981e74bb36e14b9906be77?cid=d4831269678f41c6861370eb1e28595c
+                    by Backstreet Boys 
+10/17/19 20:10:673 
+                    Song name: I Want It That Way
+                    From the album: Beautiful Dreams
+                    Preview URL: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=d4831269678f41c6861370eb1e28595c
+                    by Tyler and Mark 
+10/17/19 20:10:673 
+                    Song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+                    From the album: Poodle Hat
+                    Preview URL: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=d4831269678f41c6861370eb1e28595c
+                    by "Weird Al" Yankovic 
+10/17/19 20:10:673 
+                    Song name: I Want It That Way
+                    From the album: Punk Goes Pop
+                    Preview URL: null
+                    by Dynamite Boy 
+10/17/19 20:10:672 
+                    Song name: I Want It That Way
+                    From the album: Musicbox
+                    Preview URL: https://p.scdn.co/mp3-preview/8523cf42da67b41a5fce8f56c9dfd14d5ecb39a5?cid=d4831269678f41c6861370eb1e28595c
+                    by Nineties Legends 
+10/17/19 20:10:673 
+                    Song name: I Want It That Way
+                    From the album: 90 Sweet 90s Hits!
+                    Preview URL: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=d4831269678f41c6861370eb1e28595c
+                    by Backstreet Boys 
+10/17/19 20:10:673 
+                    Song name: I Want It That Way
+                    From the album: Under the Covers, Vol. 3
+                    Preview URL: https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=d4831269678f41c6861370eb1e28595c
+                    by Jess and Gabriel 
+10/17/19 20:10:674 
+                    Song name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+                    From the album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+                    Preview URL: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=d4831269678f41c6861370eb1e28595c
+                    by Glee Cast 
+10/17/19 20:10:674 
+                    Song name: I Want It That Way
+                    From the album: NKOTBSB
+                    Preview URL: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=d4831269678f41c6861370eb1e28595c
+                    by Backstreet Boys 
+10/17/19 20:10:673 
+                    Song name: I Want It That Way
+                    From the album: I Want It That Way
+                    Preview URL: null
+                    by Steel Panther 
+10/17/19 20:10:676 
+                    Song name: I Want It That Way
+                    From the album: Nu Funk
+                    Preview URL: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=d4831269678f41c6861370eb1e28595c
+                    by Scary Pockets,Casey Abrams 
+10/17/19 20:10:676 
+                    Song name: I Want It That Way
+                    From the album: Cover Sessions, Vol. 2
+                    Preview URL: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=d4831269678f41c6861370eb1e28595c
+                    by Boyce Avenue 
+10/17/19 20:10:676 
+                    Song name: I Want It That Way
+                    From the album: I Want It That Way
+                    Preview URL: null
+                    by Manuel Costa 
+10/17/19 20:10:677 
+                    Song name: I Want It That Way
+                    From the album: Selfies on Kodachrome
+                    Preview URL: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=d4831269678f41c6861370eb1e28595c
+                    by Scott Bradlee's Postmodern Jukebox,Shoshana Bean 
+10/17/19 20:10:676 
+                    Song name: I Want It That Way
+                    From the album: I Want It That Way
+                    Preview URL: https://p.scdn.co/mp3-preview/8d1287b933d37b96943a5041ebcd46c328c9a0ce?cid=d4831269678f41c6861370eb1e28595c
+                    by Yshop 
+10/17/19 20:10:677 
+                    Song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+                    From the album: The Essential "Weird Al" Yankovic
+                    Preview URL: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=d4831269678f41c6861370eb1e28595c
+                    by "Weird Al" Yankovic 
+10/17/19 20:10:484 
+                    Venue: U.S. Bank Arena, Cincinnati, OH United States
+                    Date: 10/24/2019 
+10/17/19 20:10:484 
+                    Venue: Schottenstein Center, Columbus, OH United States
+                    Date: 10/20/2019 
+10/17/19 20:10:484 
+                    Venue: Sprint Center, Kansas City, MO United States
+                    Date: 10/28/2019 
+10/17/19 20:10:484 
+                    Venue: KFC Yum! Center, Louisville, KY United States
+                    Date: 10/22/2019 
+10/17/19 20:10:484 
+                    Venue: Rocket Mortgage FieldHouse, Cleveland, OH United States
+                    Date: 10/18/2019 
+10/17/19 20:10:484 
+                    Venue: Target Center, Minneapolis, MN United States
+                    Date: 11/01/2019 
+10/17/19 20:10:485 
+                    Venue: Bell Centre, Montreal,  Canada
+                    Date: 11/19/2019 
+10/17/19 20:10:484 Search results start:
+ 
+10/17/19 20:10:485 
+                    Venue: Fargodome, Fargo, ND United States
+                    Date: 10/30/2019 
+10/17/19 20:10:485 
+                    Venue: Fiserv Forum, Milwaukee, WI United States
+                    Date: 11/03/2019 
+10/17/19 20:10:485 
+                    Venue: Bell Centre, Montreal,  Canada
+                    Date: 11/21/2019 
+10/17/19 20:10:486 
+                    Venue: Bell Centre, Montreal,  Canada
+                    Date: 11/18/2019 
+10/17/19 20:10:486 
+                    Venue: Little Caesars Arena, Detroit, MI United States
+                    Date: 11/05/2019 
+10/17/19 20:10:486 
+                    Venue: Bell Centre, Montreal,  Canada
+                    Date: 11/22/2019 
+10/17/19 20:10:486 
+                    Venue: United Center, Chicago, IL United States
+                    Date: 12/01/2019 
+10/17/19 20:10:486 
+                    Venue: Enterprise Center, St. Louis, MO United States
+                    Date: 10/26/2019 
+10/17/19 20:10:486 
+                    Venue: Bankers Life Fieldhouse, Indianapolis, IN United States
+                    Date: 12/03/2019 
+10/17/19 20:10:486 
+                    Venue: Times Union Center, Albany, NY United States
+                    Date: 12/07/2019 
+10/17/19 20:10:486 
+                    Venue: KeyBank Center, Buffalo, NY United States
+                    Date: 12/05/2019 
+10/17/19 20:10:487 
+                    Venue: Scotiabank Arena, Toronto,  Canada
+                    Date: 12/09/2019 
+10/17/19 20:10:487 
+                    Venue: Scotiabank Arena, Toronto,  Canada
+                    Date: 12/10/2019 
+10/17/19 20:10:487 
+                    Venue: TD Garden, Boston, MA United States
+                    Date: 12/13/2019 
+10/17/19 20:10:487 
+                    Venue: State Farm Arena, Atlanta, GA United States
+                    Date: 01/11/2020 
+10/17/19 20:10:487 
+                    Venue: TD Garden, Boston, MA United States
+                    Date: 12/14/2019 
+10/17/19 20:10:487 
+                    Venue: VyStar Veterans Memorial Arena, Jacksonville, FL United States
+                    Date: 01/08/2020 
+10/17/19 20:10:487 
+                    Venue: Bridgestone Arena, Nashville, TN United States
+                    Date: 01/13/2020 
+10/17/19 20:10:487 
+                    Venue: AmericanAirlines Arena, Miami, FL United States
+                    Date: 01/18/2020 
+10/17/19 20:10:487 
+                    Venue: AmericanAirlines Arena, Miami, FL United States
+                    Date: 01/17/2020 
+10/17/19 20:10:487 
+                    Venue: Amalie Arena, Tampa, FL United States
+                    Date: 01/15/2020 
+10/17/19 20:10:488 
+                    Venue: Toyota Center, Houston, TX United States
+                    Date: 02/01/2020 
+10/17/19 20:10:488 
+                    Venue: Spectrum Center, Charlotte, NC United States
+                    Date: 01/21/2020 
+10/17/19 20:10:488 
+                    Venue: AT&T Center, San Antonio, TX United States
+                    Date: 01/30/2020 
+10/17/19 20:10:488 
+                    Venue: American Airlines Center, Dallas, TX United States
+                    Date: 02/03/2020 
+10/17/19 20:10:488 
+                    Venue: Smoothie King Center, New Orleans, LA United States
+                    Date: 02/07/2020 
+10/17/19 20:10:488 
+                    Venue: BOK Center, Tulsa, OK United States
+                    Date: 02/05/2020 
+10/17/19 20:10:488 
+                    Venue: FedExForum, Memphis, TN United States
+                    Date: 02/09/2020 
+10/17/19 20:10:488 
+                    Venue: Bell Centre, Montreal,  Canada
+                    Date: 02/18/2020 
+10/17/19 20:10:488 
+                    Venue: PNC Arena, Raleigh, NC United States
+                    Date: 02/11/2020 
+10/17/19 20:10:489 
+                    Venue: Boardwalk Hall, Atlantic City, NJ United States
+                    Date: 02/22/2020 
+10/17/19 20:10:489 
+                    Venue: Wells Fargo Center, Philadelphia, PA United States
+                    Date: 02/26/2020 
+10/17/19 20:10:490 
+                    Venue: Royal Farms Arena (formerly Baltimore Arena), Baltimore, MD United States
+                    Date: 02/24/2020 
+10/17/19 20:10:491 
+                    Venue: Nassau Veterans Memorial Coliseum, Uniondale, NY United States
+                    Date: 03/03/2020 
+10/17/19 20:10:490 
+                    Venue: Barclays Center, Brooklyn, NY United States
+                    Date: 02/28/2020 
+10/17/19 20:10:491 
+                    Venue: Barclays Center, Brooklyn, NY United States
+                    Date: 02/29/2020 
+10/17/19 20:10:491 
+                    Venue: Prudential Center, Newark, NJ United States
+                    Date: 03/08/2020 
+10/17/19 20:10:489 
+                    Venue: Bell Centre, Montreal,  Canada
+                    Date: 02/19/2020 
+10/17/19 20:10:491 
+                    Venue: Barclays Center, Brooklyn, NY United States
+                    Date: 03/05/2020 
+10/17/19 20:10:491 
+                    Venue: PPG Paints Arena, Pittsburgh, PA United States
+                    Date: 03/13/2020 
+10/17/19 20:10:492 
+                    Venue: Vivint Smart Home Arena, Salt Lake City, UT United States
+                    Date: 03/26/2020 
+10/17/19 20:10:492 
+                    Venue: Pechanga Arena San Diego, San Diego, CA United States
+                    Date: 03/31/2020 
+10/17/19 20:10:492 
+                    Venue: Gila River Arena, Glendale, AZ United States
+                    Date: 03/29/2020 
+10/17/19 20:10:492 
+                    Venue: Staples Center, Los Angeles, CA United States
+                    Date: 04/02/2020 
+10/17/19 20:10:492 
+                    Venue: Golden 1 Center, Sacramento, CA United States
+                    Date: 04/07/2020 
+10/17/19 20:10:492 
+                    Venue: Capital One Arena, Washington, DC United States
+                    Date: 03/11/2020 
+10/17/19 20:10:492 
+                    Venue: Pepsi Center, Denver, CO United States
+                    Date: 03/24/2020 
+10/17/19 20:10:492 
+                    Venue: Staples Center, Los Angeles, CA United States
+                    Date: 04/03/2020 
+10/17/19 20:10:491 
+                    Venue: Prudential Center, Newark, NJ United States
+                    Date: 03/07/2020 
+10/17/19 20:10:493 
+                    Venue: Chase Center, San Francisco, CA United States
+                    Date: 04/10/2020 
+10/17/19 20:10:493 
+                    Venue: Chase Center, San Francisco, CA United States
+                    Date: 04/11/2020 
+10/17/19 20:10:493 
+                    Venue: Tacoma Dome, Tacoma, WA United States
+                    Date: 04/15/2020 
+10/17/19 20:10:493 
+                    Venue: Oakland Arena, Oakland, CA United States
+                    Date: 04/09/2020 
+10/17/19 20:10:493 
+                    Venue: Moda Center, Portland, OR United States
+                    Date: 04/13/2020 
+10/17/19 20:10:493 
+                    Venue: Rogers Arena, Vancouver,  Canada
+                    Date: 04/18/2020 
+10/17/19 20:10:493 
+                    Venue: Sasktel Centre, Saskatoon,  Canada
+                    Date: 04/25/2020 
+10/17/19 20:10:493 
+                    Venue: Rogers Arena, Vancouver,  Canada
+                    Date: 04/17/2020 
+10/17/19 20:10:494 
+                    Venue: Bell MTS Place, Winnipeg,  Canada
+                    Date: 04/27/2020 
+10/17/19 20:10:493 
+                    Venue: Rogers Place, Edmonton,  Canada
+                    Date: 04/22/2020 
+10/17/19 20:10:494 
+                    Venue: O2 Arena, Prague,  Czech Republic
+                    Date: 05/21/2020 
+10/17/19 20:10:494 
+                    Venue: Tauron Arena Krakow, Kraków,  Poland
+                    Date: 05/25/2020 
+10/17/19 20:10:494 
+                    Venue: Sportpaleis, Antwerpen - Merksem,  Belgium
+                    Date: 05/30/2020 
+10/17/19 20:10:494 
+                    Venue: Sportpaleis, Antwerpen - Merksem,  Belgium
+                    Date: 05/28/2020 
+10/17/19 20:10:494 
+                    Venue: Atlas Arena, Łódź,  Poland
+                    Date: 05/23/2020 
+10/17/19 20:10:494 
+                    Venue: Ziggo Dome, Amsterdam,  Netherlands
+                    Date: 06/10/2020 
+10/17/19 20:10:495 
+                    Venue: Hallenstadion, Zürich,  Switzerland
+                    Date: 06/02/2020 
+10/17/19 20:10:495 
+                    Venue: Papp Laszlo Arena, Budapest,  Hungary
+                    Date: 06/07/2020 
+10/17/19 20:10:494 
+                    Venue: Rogers Place, Edmonton,  Canada
+                    Date: 04/21/2020 
+10/17/19 20:10:495 
+                    Venue: Hallenstadion, Zürich,  Switzerland
+                    Date: 06/03/2020 
+10/17/19 20:10:496 
+                    Venue: Ziggo Dome, Amsterdam,  Netherlands
+                    Date: 06/13/2020 
+10/17/19 20:10:496 
+                    Venue: Ziggo Dome, Amsterdam,  Netherlands
+                    Date: 06/12/2020 
+10/17/19 20:10:496 
+                    Venue: Wiener Stadthalle - Halle D, Wien,  Austria
+                    Date: 06/15/2020 
+10/17/19 20:10:496 
+                    Venue: Kleine Olympiahalle München, München,  Germany
+                    Date: 06/17/2020 
+10/17/19 20:10:496 
+                    Venue: Lanxess Arena, Köln,  Germany
+                    Date: 06/21/2020 
+10/17/19 20:10:496 
+                    Venue: SAP Arena, Mannheim,  Germany
+                    Date: 06/19/2020 
+10/17/19 20:10:495 
+                    Venue: ARENA ZAGREB, Zagreb,  Croatia
+                    Date: 06/05/2020 
+10/17/19 20:10:496 
+                    Venue: Barclaycard Arena Hamburg, Hamburg,  Germany
+                    Date: 06/22/2020 
+10/17/19 20:10:496 
+                    Venue: PARIS LA DEFENSE ARENA, Nanterre,  France
+                    Date: 06/27/2020 
+10/17/19 20:10:496 
+                    Venue: PARIS LA DEFENSE ARENA, Nanterre,  France
+                    Date: 06/26/2020 
+10/17/19 20:10:497 
+                    Venue: PARIS LA DEFENSE ARENA, Nanterre,  France
+                    Date: 07/01/2020 
+10/17/19 20:10:497 
+                    Venue: PARIS LA DEFENSE ARENA, Nanterre,  France
+                    Date: 07/04/2020 
+10/17/19 20:10:497 
+                    Venue: PARIS LA DEFENSE ARENA, Nanterre,  France
+                    Date: 06/30/2020 
+10/17/19 20:10:497 
+                    Venue: Waldbühne Berlin, Berlin,  Germany
+                    Date: 07/22/2020 
+10/17/19 20:10:497 
+                    Venue: PARIS LA DEFENSE ARENA, Nanterre,  France
+                    Date: 07/03/2020 
+10/17/19 20:10:497 
+                    Venue: Mura di Lucca - Viale Carducci, Lucca,  Italy
+                    Date: 07/25/2020 
+10/17/19 20:10:497 
+                    Venue: National Stadium Bukarest, Bucharest,  Romania
+                    Date: 07/29/2020 
+10/17/19 20:10:497 
+                    Venue: Telenor Arena, Fornebu,  Norway
+                    Date: 08/28/2020 
+10/17/19 20:10:497 
+                    Venue: Hartwall Arena, Helsinki,  Finland
+                    Date: 08/25/2020 
+10/17/19 20:10:498 
+                    Venue: Royal Arena, København S,  Denmark
+                    Date: 08/31/2020 
+10/17/19 20:10:497 
+                    Venue: Plaine De L'asse, Nyon,  France
+                    Date: 07/20/2020 
+10/17/19 20:10:498 
+                    Venue: Hartwall Arena, Helsinki,  Finland
+                    Date: 08/24/2020 
+10/17/19 20:10:498 
+                    Venue: Manchester Arena, Manchester,  United Kingdom
+                    Date: 09/04/2020 
+10/17/19 20:10:498 
+                    Venue: Telenor Arena, Fornebu,  Norway
+                    Date: 08/29/2020 
+10/17/19 20:10:498 
+                    Venue: Royal Arena, København S,  Denmark
+                    Date: 09/01/2020 
+10/17/19 20:10:498 
+                    Venue: Manchester Arena, Manchester,  United Kingdom
+                    Date: 09/05/2020 
+10/17/19 20:10:498 
+                    Venue: The SSE Hydro, Glasgow,  United Kingdom
+                    Date: 09/11/2020 
+10/17/19 20:10:498 
+                    Venue: Arena Birmingham, Birmingham,  United Kingdom
+                    Date: 09/09/2020 
+10/17/19 20:10:499 
+                    Venue: The SSE Hydro, Glasgow,  United Kingdom
+                    Date: 09/12/2020 
+10/17/19 20:10:498 
+                    Venue: Arena Birmingham, Birmingham,  United Kingdom
+                    Date: 09/08/2020 
+10/17/19 20:10:499 
+                    Venue: The O2, London,  United Kingdom
+                    Date: 09/17/2020 
+10/17/19 20:10:499 
+                    Venue: 3Arena, Dublin,  Ireland
+                    Date: 09/15/2020 
+10/17/19 20:10:500 
+                    Venue: The O2, London,  United Kingdom
+                    Date: 09/18/2020 
+10/17/19 20:10:499 
+                    Venue: 3Arena, Dublin,  Ireland
+                    Date: 09/14/2020 
+10/17/19 20:10:500 Search results end
+ 
+10/19/19 13:10:724 No arguments passed running inqirer 
+10/19/19 13:10:718 App Start 
+10/19/19 13:10:604 
+                    Venue: Schottenstein Center, Columbus, OH United States
+                    Date: 10/20/2019 
+10/19/19 13:10:604 
+                    Venue: Rocket Mortgage FieldHouse, Cleveland, OH United States
+                    Date: 10/18/2019 
+10/19/19 13:10:605 
+                    Venue: U.S. Bank Arena, Cincinnati, OH United States
+                    Date: 10/24/2019 
+10/19/19 13:10:605 
+                    Venue: KFC Yum! Center, Louisville, KY United States
+                    Date: 10/22/2019 
+10/19/19 13:10:605 
+                    Venue: Sprint Center, Kansas City, MO United States
+                    Date: 10/28/2019 
+10/19/19 13:10:605 
+                    Venue: Fargodome, Fargo, ND United States
+                    Date: 10/30/2019 
+10/19/19 13:10:604 
+                    Venue: Enterprise Center, St. Louis, MO United States
+                    Date: 10/26/2019 
+10/19/19 13:10:603 Search results start:
+ 
+10/19/19 13:10:605 
+                    Venue: Target Center, Minneapolis, MN United States
+                    Date: 11/01/2019 
+10/19/19 13:10:606 
+                    Venue: Bell Centre, Montreal,  Canada
+                    Date: 11/18/2019 
+10/19/19 13:10:606 
+                    Venue: Little Caesars Arena, Detroit, MI United States
+                    Date: 11/05/2019 
+10/19/19 13:10:607 
+                    Venue: Bell Centre, Montreal,  Canada
+                    Date: 11/19/2019 
+10/19/19 13:10:607 
+                    Venue: Fiserv Forum, Milwaukee, WI United States
+                    Date: 11/03/2019 
+10/19/19 13:10:608 
+                    Venue: KeyBank Center, Buffalo, NY United States
+                    Date: 12/05/2019 
+10/19/19 13:10:608 
+                    Venue: United Center, Chicago, IL United States
+                    Date: 12/01/2019 
+10/19/19 13:10:607 
+                    Venue: Bell Centre, Montreal,  Canada
+                    Date: 11/21/2019 
+10/19/19 13:10:607 
+                    Venue: Scotiabank Arena, Toronto,  Canada
+                    Date: 12/09/2019 
+10/19/19 13:10:608 
+                    Venue: Times Union Center, Albany, NY United States
+                    Date: 12/07/2019 
+10/19/19 13:10:607 
+                    Venue: Bell Centre, Montreal,  Canada
+                    Date: 11/22/2019 
+10/19/19 13:10:608 
+                    Venue: Scotiabank Arena, Toronto,  Canada
+                    Date: 12/10/2019 
+10/19/19 13:10:608 
+                    Venue: VyStar Veterans Memorial Arena, Jacksonville, FL United States
+                    Date: 01/08/2020 
+10/19/19 13:10:609 
+                    Venue: TD Garden, Boston, MA United States
+                    Date: 12/14/2019 
+10/19/19 13:10:609 
+                    Venue: Bridgestone Arena, Nashville, TN United States
+                    Date: 01/13/2020 
+10/19/19 13:10:609 
+                    Venue: Bankers Life Fieldhouse, Indianapolis, IN United States
+                    Date: 12/03/2019 
+10/19/19 13:10:609 
+                    Venue: Amalie Arena, Tampa, FL United States
+                    Date: 01/15/2020 
+10/19/19 13:10:609 
+                    Venue: Spectrum Center, Charlotte, NC United States
+                    Date: 01/21/2020 
+10/19/19 13:10:609 
+                    Venue: AmericanAirlines Arena, Miami, FL United States
+                    Date: 01/18/2020 
+10/19/19 13:10:610 
+                    Venue: AmericanAirlines Arena, Miami, FL United States
+                    Date: 01/17/2020 
+10/19/19 13:10:609 
+                    Venue: TD Garden, Boston, MA United States
+                    Date: 12/13/2019 
+10/19/19 13:10:610 
+                    Venue: State Farm Arena, Atlanta, GA United States
+                    Date: 01/11/2020 
+10/19/19 13:10:610 
+                    Venue: American Airlines Center, Dallas, TX United States
+                    Date: 02/03/2020 
+10/19/19 13:10:610 
+                    Venue: Toyota Center, Houston, TX United States
+                    Date: 02/01/2020 
+10/19/19 13:10:610 
+                    Venue: Smoothie King Center, New Orleans, LA United States
+                    Date: 02/07/2020 
+10/19/19 13:10:610 
+                    Venue: BOK Center, Tulsa, OK United States
+                    Date: 02/05/2020 
+10/19/19 13:10:610 
+                    Venue: AT&T Center, San Antonio, TX United States
+                    Date: 01/30/2020 
+10/19/19 13:10:610 
+                    Venue: Bell Centre, Montreal,  Canada
+                    Date: 02/18/2020 
+10/19/19 13:10:611 
+                    Venue: FedExForum, Memphis, TN United States
+                    Date: 02/09/2020 
+10/19/19 13:10:611 
+                    Venue: Royal Farms Arena (formerly Baltimore Arena), Baltimore, MD United States
+                    Date: 02/24/2020 
+10/19/19 13:10:611 
+                    Venue: Boardwalk Hall, Atlantic City, NJ United States
+                    Date: 02/22/2020 
+10/19/19 13:10:611 
+                    Venue: PNC Arena, Raleigh, NC United States
+                    Date: 02/11/2020 
+10/19/19 13:10:611 
+                    Venue: Wells Fargo Center, Philadelphia, PA United States
+                    Date: 02/26/2020 
+10/19/19 13:10:611 
+                    Venue: Barclays Center, Brooklyn, NY United States
+                    Date: 02/28/2020 
+10/19/19 13:10:611 
+                    Venue: Nassau Veterans Memorial Coliseum, Uniondale, NY United States
+                    Date: 03/03/2020 
+10/19/19 13:10:611 
+                    Venue: Bell Centre, Montreal,  Canada
+                    Date: 02/19/2020 
+10/19/19 13:10:611 
+                    Venue: Barclays Center, Brooklyn, NY United States
+                    Date: 02/29/2020 
+10/19/19 13:10:612 
+                    Venue: Prudential Center, Newark, NJ United States
+                    Date: 03/08/2020 
+10/19/19 13:10:612 
+                    Venue: Pechanga Arena San Diego, San Diego, CA United States
+                    Date: 03/31/2020 
+10/19/19 13:10:612 
+                    Venue: Vivint Smart Home Arena, Salt Lake City, UT United States
+                    Date: 03/26/2020 
+10/19/19 13:10:612 
+                    Venue: PPG Paints Arena, Pittsburgh, PA United States
+                    Date: 03/13/2020 
+10/19/19 13:10:612 
+                    Venue: Staples Center, Los Angeles, CA United States
+                    Date: 04/02/2020 
+10/19/19 13:10:613 
+                    Venue: Pepsi Center, Denver, CO United States
+                    Date: 03/24/2020 
+10/19/19 13:10:612 
+                    Venue: Barclays Center, Brooklyn, NY United States
+                    Date: 03/05/2020 
+10/19/19 13:10:613 
+                    Venue: Staples Center, Los Angeles, CA United States
+                    Date: 04/03/2020 
+10/19/19 13:10:612 
+                    Venue: Capital One Arena, Washington, DC United States
+                    Date: 03/11/2020 
+10/19/19 13:10:612 
+                    Venue: Prudential Center, Newark, NJ United States
+                    Date: 03/07/2020 
+10/19/19 13:10:613 
+                    Venue: Golden 1 Center, Sacramento, CA United States
+                    Date: 04/07/2020 
+10/19/19 13:10:613 
+                    Venue: Oakland Arena, Oakland, CA United States
+                    Date: 04/09/2020 
+10/19/19 13:10:613 
+                    Venue: Gila River Arena, Glendale, AZ United States
+                    Date: 03/29/2020 
+10/19/19 13:10:613 
+                    Venue: Chase Center, San Francisco, CA United States
+                    Date: 04/11/2020 
+10/19/19 13:10:614 
+                    Venue: Rogers Arena, Vancouver,  Canada
+                    Date: 04/17/2020 
+10/19/19 13:10:614 
+                    Venue: Tacoma Dome, Tacoma, WA United States
+                    Date: 04/15/2020 
+10/19/19 13:10:614 
+                    Venue: Rogers Arena, Vancouver,  Canada
+                    Date: 04/18/2020 
+10/19/19 13:10:614 
+                    Venue: Sasktel Centre, Saskatoon,  Canada
+                    Date: 04/25/2020 
+10/19/19 13:10:614 
+                    Venue: Rogers Place, Edmonton,  Canada
+                    Date: 04/22/2020 
+10/19/19 13:10:614 
+                    Venue: Rogers Place, Edmonton,  Canada
+                    Date: 04/21/2020 
+10/19/19 13:10:614 
+                    Venue: O2 Arena, Prague,  Czech Republic
+                    Date: 05/21/2020 
+10/19/19 13:10:615 
+                    Venue: Atlas Arena, Łódź,  Poland
+                    Date: 05/23/2020 
+10/19/19 13:10:614 
+                    Venue: Chase Center, San Francisco, CA United States
+                    Date: 04/10/2020 
+10/19/19 13:10:615 
+                    Venue: Tauron Arena Krakow, Kraków,  Poland
+                    Date: 05/25/2020 
+10/19/19 13:10:615 
+                    Venue: Sportpaleis, Antwerpen - Merksem,  Belgium
+                    Date: 05/28/2020 
+10/19/19 13:10:615 
+                    Venue: Bell MTS Place, Winnipeg,  Canada
+                    Date: 04/27/2020 
+10/19/19 13:10:616 
+                    Venue: Sportpaleis, Antwerpen - Merksem,  Belgium
+                    Date: 05/30/2020 
+10/19/19 13:10:615 
+                    Venue: Hallenstadion, Zürich,  Switzerland
+                    Date: 06/03/2020 
+10/19/19 13:10:616 
+                    Venue: Papp Laszlo Arena, Budapest,  Hungary
+                    Date: 06/07/2020 
+10/19/19 13:10:614 
+                    Venue: Moda Center, Portland, OR United States
+                    Date: 04/13/2020 
+10/19/19 13:10:616 
+                    Venue: Ziggo Dome, Amsterdam,  Netherlands
+                    Date: 06/12/2020 
+10/19/19 13:10:617 
+                    Venue: Hallenstadion, Zürich,  Switzerland
+                    Date: 06/02/2020 
+10/19/19 13:10:617 
+                    Venue: SAP Arena, Mannheim,  Germany
+                    Date: 06/19/2020 
+10/19/19 13:10:616 
+                    Venue: Ziggo Dome, Amsterdam,  Netherlands
+                    Date: 06/10/2020 
+10/19/19 13:10:616 
+                    Venue: ARENA ZAGREB, Zagreb,  Croatia
+                    Date: 06/05/2020 
+10/19/19 13:10:617 
+                    Venue: Kleine Olympiahalle München, München,  Germany
+                    Date: 06/17/2020 
+10/19/19 13:10:616 
+                    Venue: Ziggo Dome, Amsterdam,  Netherlands
+                    Date: 06/13/2020 
+10/19/19 13:10:617 
+                    Venue: PARIS LA DEFENSE ARENA, Nanterre,  France
+                    Date: 06/26/2020 
+10/19/19 13:10:618 
+                    Venue: Wiener Stadthalle - Halle D, Wien,  Austria
+                    Date: 06/15/2020 
+10/19/19 13:10:619 
+                    Venue: Lanxess Arena, Köln,  Germany
+                    Date: 06/21/2020 
+10/19/19 13:10:618 
+                    Venue: PARIS LA DEFENSE ARENA, Nanterre,  France
+                    Date: 06/27/2020 
+10/19/19 13:10:619 
+                    Venue: PARIS LA DEFENSE ARENA, Nanterre,  France
+                    Date: 07/04/2020 
+10/19/19 13:10:619 
+                    Venue: PARIS LA DEFENSE ARENA, Nanterre,  France
+                    Date: 07/03/2020 
+10/19/19 13:10:619 
+                    Venue: Barclaycard Arena Hamburg, Hamburg,  Germany
+                    Date: 06/22/2020 
+10/19/19 13:10:620 
+                    Venue: Plaine De L'asse, Nyon,  France
+                    Date: 07/20/2020 
+10/19/19 13:10:619 
+                    Venue: PARIS LA DEFENSE ARENA, Nanterre,  France
+                    Date: 07/01/2020 
+10/19/19 13:10:620 
+                    Venue: Mura di Lucca - Viale Carducci, Lucca,  Italy
+                    Date: 07/25/2020 
+10/19/19 13:10:620 
+                    Venue: Waldbühne Berlin, Berlin,  Germany
+                    Date: 07/22/2020 
+10/19/19 13:10:620 
+                    Venue: National Stadium Bukarest, Bucharest,  Romania
+                    Date: 07/29/2020 
+10/19/19 13:10:620 
+                    Venue: Hartwall Arena, Helsinki,  Finland
+                    Date: 08/25/2020 
+10/19/19 13:10:620 
+                    Venue: Hartwall Arena, Helsinki,  Finland
+                    Date: 08/24/2020 
+10/19/19 13:10:621 
+                    Venue: Telenor Arena, Fornebu,  Norway
+                    Date: 08/28/2020 
+10/19/19 13:10:621 
+                    Venue: Telenor Arena, Fornebu,  Norway
+                    Date: 08/29/2020 
+10/19/19 13:10:621 
+                    Venue: Manchester Arena, Manchester,  United Kingdom
+                    Date: 09/04/2020 
+10/19/19 13:10:621 
+                    Venue: Royal Arena, København S,  Denmark
+                    Date: 09/01/2020 
+10/19/19 13:10:618 
+                    Venue: PARIS LA DEFENSE ARENA, Nanterre,  France
+                    Date: 06/30/2020 
+10/19/19 13:10:621 
+                    Venue: Arena Birmingham, Birmingham,  United Kingdom
+                    Date: 09/08/2020 
+10/19/19 13:10:621 
+                    Venue: Arena Birmingham, Birmingham,  United Kingdom
+                    Date: 09/09/2020 
+10/19/19 13:10:622 
+                    Venue: Manchester Arena, Manchester,  United Kingdom
+                    Date: 09/05/2020 
+10/19/19 13:10:622 
+                    Venue: 3Arena, Dublin,  Ireland
+                    Date: 09/15/2020 
+10/19/19 13:10:623 
+                    Venue: The SSE Hydro, Glasgow,  United Kingdom
+                    Date: 09/12/2020 
+10/19/19 13:10:623 
+                    Venue: 3Arena, Dublin,  Ireland
+                    Date: 09/14/2020 
+10/19/19 13:10:623 
+                    Venue: The O2, London,  United Kingdom
+                    Date: 09/17/2020 
+10/19/19 13:10:624 
+                    Venue: The O2, London,  United Kingdom
+                    Date: 09/18/2020 
+10/19/19 13:10:624 Search results end
+ 
+10/19/19 13:10:622 
+                    Venue: The SSE Hydro, Glasgow,  United Kingdom
+                    Date: 09/11/2020 
+10/19/19 13:10:622 
+                    Venue: Royal Arena, København S,  Denmark
+                    Date: 08/31/2020 
+10/19/19 14:10:828 App Start 
+10/19/19 14:10:832 No arguments passed running inqirer 
+10/19/19 14:10:178 
+                    Venue: KFC Yum! Center, Louisville, KY United States
+                    Date: 10/22/2019 
+10/19/19 14:10:178 
+                    Venue: Schottenstein Center, Columbus, OH United States
+                    Date: 10/20/2019 
+10/19/19 14:10:178 
+                    Venue: Target Center, Minneapolis, MN United States
+                    Date: 11/01/2019 
+10/19/19 14:10:177 Search results start:
+ 
+10/19/19 14:10:179 
+                    Venue: Enterprise Center, St. Louis, MO United States
+                    Date: 10/26/2019 
+10/19/19 14:10:179 
+                    Venue: Sprint Center, Kansas City, MO United States
+                    Date: 10/28/2019 
+10/19/19 14:10:179 
+                    Venue: U.S. Bank Arena, Cincinnati, OH United States
+                    Date: 10/24/2019 
+10/19/19 14:10:179 
+                    Venue: Fargodome, Fargo, ND United States
+                    Date: 10/30/2019 
+10/19/19 14:10:180 
+                    Venue: Fiserv Forum, Milwaukee, WI United States
+                    Date: 11/03/2019 
+10/19/19 14:10:180 
+                    Venue: Little Caesars Arena, Detroit, MI United States
+                    Date: 11/05/2019 
+10/19/19 14:10:180 
+                    Venue: Bell Centre, Montreal,  Canada
+                    Date: 11/22/2019 
+10/19/19 14:10:180 
+                    Venue: Bell Centre, Montreal,  Canada
+                    Date: 11/21/2019 
+10/19/19 14:10:183 
+                    Venue: Bell Centre, Montreal,  Canada
+                    Date: 11/19/2019 
+10/19/19 14:10:183 
+                    Venue: Bankers Life Fieldhouse, Indianapolis, IN United States
+                    Date: 12/03/2019 
+10/19/19 14:10:184 
+                    Venue: United Center, Chicago, IL United States
+                    Date: 12/01/2019 
+10/19/19 14:10:185 
+                    Venue: Times Union Center, Albany, NY United States
+                    Date: 12/07/2019 
+10/19/19 14:10:183 
+                    Venue: KeyBank Center, Buffalo, NY United States
+                    Date: 12/05/2019 
+10/19/19 14:10:185 
+                    Venue: VyStar Veterans Memorial Arena, Jacksonville, FL United States
+                    Date: 01/08/2020 
+10/19/19 14:10:186 
+                    Venue: TD Garden, Boston, MA United States
+                    Date: 12/13/2019 
+10/19/19 14:10:187 
+                    Venue: TD Garden, Boston, MA United States
+                    Date: 12/14/2019 
+10/19/19 14:10:186 
+                    Venue: State Farm Arena, Atlanta, GA United States
+                    Date: 01/11/2020 
+10/19/19 14:10:187 
+                    Venue: AmericanAirlines Arena, Miami, FL United States
+                    Date: 01/18/2020 
+10/19/19 14:10:187 
+                    Venue: Scotiabank Arena, Toronto,  Canada
+                    Date: 12/09/2019 
+10/19/19 14:10:187 
+                    Venue: Bridgestone Arena, Nashville, TN United States
+                    Date: 01/13/2020 
+10/19/19 14:10:188 
+                    Venue: Amalie Arena, Tampa, FL United States
+                    Date: 01/15/2020 
+10/19/19 14:10:188 
+                    Venue: AmericanAirlines Arena, Miami, FL United States
+                    Date: 01/17/2020 
+10/19/19 14:10:188 
+                    Venue: BOK Center, Tulsa, OK United States
+                    Date: 02/05/2020 
+10/19/19 14:10:188 
+                    Venue: Spectrum Center, Charlotte, NC United States
+                    Date: 01/21/2020 
+10/19/19 14:10:185 
+                    Venue: Scotiabank Arena, Toronto,  Canada
+                    Date: 12/10/2019 
+10/19/19 14:10:189 
+                    Venue: Toyota Center, Houston, TX United States
+                    Date: 02/01/2020 
+10/19/19 14:10:189 
+                    Venue: American Airlines Center, Dallas, TX United States
+                    Date: 02/03/2020 
+10/19/19 14:10:189 
+                    Venue: Smoothie King Center, New Orleans, LA United States
+                    Date: 02/07/2020 
+10/19/19 14:10:189 
+                    Venue: FedExForum, Memphis, TN United States
+                    Date: 02/09/2020 
+10/19/19 14:10:189 
+                    Venue: AT&T Center, San Antonio, TX United States
+                    Date: 01/30/2020 
+10/19/19 14:10:190 
+                    Venue: Bell Centre, Montreal,  Canada
+                    Date: 02/19/2020 
+10/19/19 14:10:190 
+                    Venue: PNC Arena, Raleigh, NC United States
+                    Date: 02/11/2020 
+10/19/19 14:10:190 
+                    Venue: Boardwalk Hall, Atlantic City, NJ United States
+                    Date: 02/22/2020 
+10/19/19 14:10:190 
+                    Venue: Royal Farms Arena (formerly Baltimore Arena), Baltimore, MD United States
+                    Date: 02/24/2020 
+10/19/19 14:10:190 
+                    Venue: Bell Centre, Montreal,  Canada
+                    Date: 02/18/2020 
+10/19/19 14:10:190 
+                    Venue: Nassau Veterans Memorial Coliseum, Uniondale, NY United States
+                    Date: 03/03/2020 
+10/19/19 14:10:180 
+                    Venue: Bell Centre, Montreal,  Canada
+                    Date: 11/18/2019 
+10/19/19 14:10:191 
+                    Venue: Barclays Center, Brooklyn, NY United States
+                    Date: 02/28/2020 
+10/19/19 14:10:191 
+                    Venue: Wells Fargo Center, Philadelphia, PA United States
+                    Date: 02/26/2020 
+10/19/19 14:10:191 
+                    Venue: Prudential Center, Newark, NJ United States
+                    Date: 03/07/2020 
+10/19/19 14:10:192 
+                    Venue: Capital One Arena, Washington, DC United States
+                    Date: 03/11/2020 
+10/19/19 14:10:192 
+                    Venue: Barclays Center, Brooklyn, NY United States
+                    Date: 03/05/2020 
+10/19/19 14:10:191 
+                    Venue: Prudential Center, Newark, NJ United States
+                    Date: 03/08/2020 
+10/19/19 14:10:192 
+                    Venue: Gila River Arena, Glendale, AZ United States
+                    Date: 03/29/2020 
+10/19/19 14:10:192 
+                    Venue: Vivint Smart Home Arena, Salt Lake City, UT United States
+                    Date: 03/26/2020 
+10/19/19 14:10:193 
+                    Venue: Pepsi Center, Denver, CO United States
+                    Date: 03/24/2020 
+10/19/19 14:10:193 
+                    Venue: PPG Paints Arena, Pittsburgh, PA United States
+                    Date: 03/13/2020 
+10/19/19 14:10:193 
+                    Venue: Staples Center, Los Angeles, CA United States
+                    Date: 04/02/2020 
+10/19/19 14:10:193 
+                    Venue: Pechanga Arena San Diego, San Diego, CA United States
+                    Date: 03/31/2020 
+10/19/19 14:10:194 
+                    Venue: Golden 1 Center, Sacramento, CA United States
+                    Date: 04/07/2020 
+10/19/19 14:10:191 
+                    Venue: Barclays Center, Brooklyn, NY United States
+                    Date: 02/29/2020 
+10/19/19 14:10:194 
+                    Venue: Oakland Arena, Oakland, CA United States
+                    Date: 04/09/2020 
+10/19/19 14:10:194 
+                    Venue: Tacoma Dome, Tacoma, WA United States
+                    Date: 04/15/2020 
+10/19/19 14:10:194 
+                    Venue: Chase Center, San Francisco, CA United States
+                    Date: 04/10/2020 
+10/19/19 14:10:195 
+                    Venue: Rogers Place, Edmonton,  Canada
+                    Date: 04/21/2020 
+10/19/19 14:10:195 
+                    Venue: Rogers Arena, Vancouver,  Canada
+                    Date: 04/17/2020 
+10/19/19 14:10:195 
+                    Venue: Chase Center, San Francisco, CA United States
+                    Date: 04/11/2020 
+10/19/19 14:10:196 
+                    Venue: Rogers Arena, Vancouver,  Canada
+                    Date: 04/18/2020 
+10/19/19 14:10:193 
+                    Venue: Staples Center, Los Angeles, CA United States
+                    Date: 04/03/2020 
+10/19/19 14:10:196 
+                    Venue: Rogers Place, Edmonton,  Canada
+                    Date: 04/22/2020 
+10/19/19 14:10:195 
+                    Venue: Moda Center, Portland, OR United States
+                    Date: 04/13/2020 
+10/19/19 14:10:197 
+                    Venue: Bell MTS Place, Winnipeg,  Canada
+                    Date: 04/27/2020 
+10/19/19 14:10:197 
+                    Venue: Sasktel Centre, Saskatoon,  Canada
+                    Date: 04/25/2020 
+10/19/19 14:10:197 
+                    Venue: Tauron Arena Krakow, Kraków,  Poland
+                    Date: 05/25/2020 
+10/19/19 14:10:200 
+                    Venue: Sportpaleis, Antwerpen - Merksem,  Belgium
+                    Date: 05/28/2020 
+10/19/19 14:10:200 
+                    Venue: Sportpaleis, Antwerpen - Merksem,  Belgium
+                    Date: 05/30/2020 
+10/19/19 14:10:200 
+                    Venue: Hallenstadion, Zürich,  Switzerland
+                    Date: 06/02/2020 
+10/19/19 14:10:200 
+                    Venue: Hallenstadion, Zürich,  Switzerland
+                    Date: 06/03/2020 
+10/19/19 14:10:201 
+                    Venue: Ziggo Dome, Amsterdam,  Netherlands
+                    Date: 06/10/2020 
+10/19/19 14:10:196 
+                    Venue: Atlas Arena, Łódź,  Poland
+                    Date: 05/23/2020 
+10/19/19 14:10:201 
+                    Venue: ARENA ZAGREB, Zagreb,  Croatia
+                    Date: 06/05/2020 
+10/19/19 14:10:201 
+                    Venue: Papp Laszlo Arena, Budapest,  Hungary
+                    Date: 06/07/2020 
+10/19/19 14:10:202 
+                    Venue: Kleine Olympiahalle München, München,  Germany
+                    Date: 06/17/2020 
+10/19/19 14:10:202 
+                    Venue: Ziggo Dome, Amsterdam,  Netherlands
+                    Date: 06/13/2020 
+10/19/19 14:10:202 
+                    Venue: Ziggo Dome, Amsterdam,  Netherlands
+                    Date: 06/12/2020 
+10/19/19 14:10:201 
+                    Venue: Wiener Stadthalle - Halle D, Wien,  Austria
+                    Date: 06/15/2020 
+10/19/19 14:10:202 
+                    Venue: SAP Arena, Mannheim,  Germany
+                    Date: 06/19/2020 
+10/19/19 14:10:203 
+                    Venue: Lanxess Arena, Köln,  Germany
+                    Date: 06/21/2020 
+10/19/19 14:10:203 
+                    Venue: PARIS LA DEFENSE ARENA, Nanterre,  France
+                    Date: 06/30/2020 
+10/19/19 14:10:203 
+                    Venue: Barclaycard Arena Hamburg, Hamburg,  Germany
+                    Date: 06/22/2020 
+10/19/19 14:10:203 
+                    Venue: PARIS LA DEFENSE ARENA, Nanterre,  France
+                    Date: 06/26/2020 
+10/19/19 14:10:203 
+                    Venue: PARIS LA DEFENSE ARENA, Nanterre,  France
+                    Date: 06/27/2020 
+10/19/19 14:10:204 
+                    Venue: PARIS LA DEFENSE ARENA, Nanterre,  France
+                    Date: 07/03/2020 
+10/19/19 14:10:196 
+                    Venue: O2 Arena, Prague,  Czech Republic
+                    Date: 05/21/2020 
+10/19/19 14:10:204 
+                    Venue: Waldbühne Berlin, Berlin,  Germany
+                    Date: 07/22/2020 
+10/19/19 14:10:204 
+                    Venue: PARIS LA DEFENSE ARENA, Nanterre,  France
+                    Date: 07/04/2020 
+10/19/19 14:10:204 
+                    Venue: Mura di Lucca - Viale Carducci, Lucca,  Italy
+                    Date: 07/25/2020 
+10/19/19 14:10:205 
+                    Venue: Hartwall Arena, Helsinki,  Finland
+                    Date: 08/24/2020 
+10/19/19 14:10:205 
+                    Venue: PARIS LA DEFENSE ARENA, Nanterre,  France
+                    Date: 07/01/2020 
+10/19/19 14:10:205 
+                    Venue: Hartwall Arena, Helsinki,  Finland
+                    Date: 08/25/2020 
+10/19/19 14:10:205 
+                    Venue: National Stadium Bukarest, Bucharest,  Romania
+                    Date: 07/29/2020 
+10/19/19 14:10:206 
+                    Venue: Royal Arena, København S,  Denmark
+                    Date: 09/01/2020 
+10/19/19 14:10:206 
+                    Venue: Telenor Arena, Fornebu,  Norway
+                    Date: 08/28/2020 
+10/19/19 14:10:207 
+                    Venue: Royal Arena, København S,  Denmark
+                    Date: 08/31/2020 
+10/19/19 14:10:207 
+                    Venue: Manchester Arena, Manchester,  United Kingdom
+                    Date: 09/04/2020 
+10/19/19 14:10:207 
+                    Venue: Arena Birmingham, Birmingham,  United Kingdom
+                    Date: 09/08/2020 
+10/19/19 14:10:206 
+                    Venue: Telenor Arena, Fornebu,  Norway
+                    Date: 08/29/2020 
+10/19/19 14:10:207 
+                    Venue: Manchester Arena, Manchester,  United Kingdom
+                    Date: 09/05/2020 
+10/19/19 14:10:207 
+                    Venue: The SSE Hydro, Glasgow,  United Kingdom
+                    Date: 09/12/2020 
+10/19/19 14:10:208 
+                    Venue: 3Arena, Dublin,  Ireland
+                    Date: 09/14/2020 
+10/19/19 14:10:206 
+                    Venue: Plaine De L'asse, Nyon,  France
+                    Date: 07/20/2020 
+10/19/19 14:10:208 
+                    Venue: Arena Birmingham, Birmingham,  United Kingdom
+                    Date: 09/09/2020 
+10/19/19 14:10:208 
+                    Venue: 3Arena, Dublin,  Ireland
+                    Date: 09/15/2020 
+10/19/19 14:10:208 
+                    Venue: The O2, London,  United Kingdom
+                    Date: 09/17/2020 
+10/19/19 14:10:209 
+                    Venue: The SSE Hydro, Glasgow,  United Kingdom
+                    Date: 09/11/2020 
+10/19/19 14:10:209 
+                    Venue: The O2, London,  United Kingdom
+                    Date: 09/18/2020 
+10/19/19 14:10:209 Search results end
+ 
+10/24/19 18:10:826 App Start 
+10/24/19 18:10:842 command is concert-this jonas+brothers 
+10/24/19 18:10:185 
+                    Venue: Palacio de los Deportes, Ciudad De México,  Mexico
+                    Date: 10/30/2019 
+10/24/19 18:10:185 Search results start:
+ 
+10/24/19 18:10:185 
+                    Venue: Arena VFG, Fraccionamiento Los Silos,  Mexico
+                    Date: 11/02/2019 
+10/24/19 18:10:186 
+                    Venue: Smoothie King Center, New Orleans, LA United States
+                    Date: 11/12/2019 
+10/24/19 18:10:186 
+                    Venue: Legacy Arena at the BJCC, Birmingham, AL United States
+                    Date: 11/13/2019 
+10/24/19 18:10:186 
+                    Venue: Auditorio Citibanamex, Monterrey,  Mexico
+                    Date: 10/28/2019 
+10/24/19 18:10:186 
+                    Venue: Auditorio Citibanamex, Monterrey,  Mexico
+                    Date: 10/27/2019 
+10/24/19 18:10:187 
+                    Venue: Infinite Energy Arena, Duluth, GA United States
+                    Date: 11/19/2019 
+10/24/19 18:10:187 
+                    Venue: BB&T Center, Sunrise, FL United States
+                    Date: 11/15/2019 
+10/24/19 18:10:189 
+                    Venue: Amway Center, Orlando, FL United States
+                    Date: 11/16/2019 
+10/24/19 18:10:189 
+                    Venue: Spectrum Center, Charlotte, NC United States
+                    Date: 11/20/2019 
+10/24/19 18:10:190 
+                    Venue: VyStar Veterans Memorial Arena, Jacksonville, FL United States
+                    Date: 11/17/2019 
+10/24/19 18:10:190 
+                    Venue: Palacio de los Deportes, Ciudad De México,  Mexico
+                    Date: 10/31/2019 
+10/24/19 18:10:190 
+                    Venue: Boardwalk Hall, Atlantic City, NJ United States
+                    Date: 11/29/2019 
+10/24/19 18:10:190 
+                    Venue: Prudential Center, Newark, NJ United States
+                    Date: 11/22/2019 
+10/24/19 18:10:190 
+                    Venue: Scotiabank Arena, Toronto,  Canada
+                    Date: 11/26/2019 
+10/24/19 18:10:191 
+                    Venue: Bell Centre, Montreal,  Canada
+                    Date: 11/27/2019 
+10/24/19 18:10:191 
+                    Venue: TD Garden, Boston, MA United States
+                    Date: 11/24/2019 
+10/24/19 18:10:191 
+                    Venue: Frank C. Erwin, Jr., Special Events Center, Austin, TX United States
+                    Date: 12/07/2019 
+10/24/19 18:10:191 
+                    Venue: Barclays Center, Brooklyn, NY United States
+                    Date: 11/23/2019 
+10/24/19 18:10:192 
+                    Venue: American Airlines Center, Dallas, TX United States
+                    Date: 12/06/2019 
+10/24/19 18:10:192 
+                    Venue: CHI Health Center Omaha, Omaha, NE United States
+                    Date: 12/04/2019 
+10/24/19 18:10:192 
+                    Venue: Oracle Arena, Oakland, CA United States
+                    Date: 12/12/2019 
+10/24/19 18:10:191 
+                    Venue: Royal Farms Arena, Baltimore, MD United States
+                    Date: 11/30/2019 
+10/24/19 18:10:192 
+                    Venue: Talking Stick Resort Arena, Phoenix, AZ United States
+                    Date: 12/10/2019 
+10/24/19 18:10:192 
+                    Venue: Allstate Arena, Rosemont, IL United States
+                    Date: 12/03/2019 
+10/24/19 18:10:193 
+                    Venue: BB&T Center, Sunrise, FL United States
+                    Date: 12/22/2019 
+10/24/19 18:10:193 
+                    Venue: State Farm Arena, Atlanta, GA United States
+                    Date: 12/20/2019 
+10/24/19 18:10:193 
+                    Venue: The Forum, Los Angeles, CA United States
+                    Date: 12/14/2019 
+10/24/19 18:10:193 
+                    Venue: Allstate Arena, Rosemont, IL United States
+                    Date: 12/18/2019 
+10/24/19 18:10:194 
+                    Venue: Fontainebleau Miami Beach, Miami Beach, FL United States
+                    Date: 12/31/2019 
+10/24/19 18:10:194 
+                    Venue: The SSE Arena, Wembley, London,  United Kingdom
+                    Date: 02/03/2020 
+10/24/19 18:10:194 
+                    Venue: The Forum, Los Angeles, CA United States
+                    Date: 12/15/2019 
+10/24/19 18:10:195 
+                    Venue: The Cove Atlantis, Nassau,  Bahamas
+                    Date: 12/30/2019 
+10/24/19 18:10:195 
+                    Venue: 3Arena, Dublin 1,  Ireland
+                    Date: 01/31/2020 
+10/24/19 18:10:196 
+                    Venue: Arena Birmingham, Birmingham,  United Kingdom
+                    Date: 01/29/2020 
+10/24/19 18:10:195 
+                    Venue: The SSE Hydro, Glasgow,  United Kingdom
+                    Date: 02/05/2020 
+10/24/19 18:10:196 
+                    Venue: Manchester Arena, Manchester,  United Kingdom
+                    Date: 02/06/2020 
+10/24/19 18:10:196 
+                    Venue: The O2, London,  United Kingdom
+                    Date: 02/02/2020 
+10/24/19 18:10:196 
+                    Venue: Mediolanum Forum, Assago,  Italy
+                    Date: 02/14/2020 
+10/24/19 18:10:197 
+                    Venue: Lotto Arena, Antwerpen,  Belgium
+                    Date: 02/08/2020 
+10/24/19 18:10:197 
+                    Venue: Lanxess Arena, Köln,  Germany
+                    Date: 02/11/2020 
+10/24/19 18:10:197 
+                    Venue: Palau Sant Jordi, Barcelona,  Spain
+                    Date: 02/17/2020 
+10/24/19 18:10:197 
+                    Venue: SUD DE FRANCE ARENA, Pérols,  France
+                    Date: 02/18/2020 
+10/24/19 18:10:198 
+                    Venue: Mercedes-Benz Arena, Berlin,  Germany
+                    Date: 02/10/2020 
+10/24/19 18:10:198 
+                    Venue: Hallenstadion, Zürich,  Switzerland
+                    Date: 02/13/2020 
+10/24/19 18:10:199 
+                    Venue: Ziggo Dome, Amsterdam,  Netherlands
+                    Date: 02/20/2020 
+10/24/19 18:10:198 
+                    Venue: AccorHotels Arena, Paris,  France
+                    Date: 02/22/2020 
+10/24/19 18:10:199 Search results end
+ 
+10/24/19 18:10:200 
+                    Venue: Wizin Center, Madrid,  Spain
+                    Date: 02/16/2020 
+10/24/19 18:10:401 App Start 
+10/24/19 18:10:405 Running spotify-this 
+10/24/19 18:10:405 command is spotify-this-song how+does+a+moment+last+forever 
+10/24/19 18:10:511 
+                    Song name: How Does A Moment Last Forever (Montmartre)
+                    From the album: Beauty and the Beast (Original Motion Picture Soundtrack/Deluxe Edition)
+                    Preview URL: null
+                    by Emma Watson 
+10/24/19 18:10:512 
+                    Song name: How Does A Moment Last Forever (Music Box)
+                    From the album: Beauty and the Beast (Original Motion Picture Soundtrack/Deluxe Edition)
+                    Preview URL: null
+                    by Kevin Kline 
+10/24/19 18:10:512 
+                    Song name: How Does A Moment Last Forever
+                    From the album: Disney Peaceful Piano: Love Songs
+                    Preview URL: null
+                    by Disney Peaceful Piano 
+10/24/19 18:10:513 
+                    Song name: How Does A Moment Last Forever (Montmartre) - Demo
+                    From the album: Beauty and the Beast (Original Motion Picture Soundtrack/Deluxe Edition)
+                    Preview URL: null
+                    by Alan Menken 
+10/24/19 18:10:513 
+                    Song name: How Does A Moment Last Forever
+                    From the album: Beauty and the Beast (Original Motion Picture Soundtrack/Deluxe Edition)
+                    Preview URL: null
+                    by Céline Dion 
+10/24/19 18:10:513 
+                    Song name: How Does a Moment Last Forever
+                    From the album: How Does a Moment Last Forever
+                    Preview URL: https://p.scdn.co/mp3-preview/0c0641f8a1341989ed3b99ed38b6076f6a598280?cid=d4831269678f41c6861370eb1e28595c
+                    by Karliene 
+10/24/19 18:10:512 Total entries found: 47 only showing 20 
+10/24/19 18:10:512 Song entry is how+does+a+moment+last+forever 
+10/24/19 18:10:513 
+                    Song name: The Place Where Lost Things Go / How Does a Moment Last Forever
+                    From the album: Disney Mashups, Vol. 2
+                    Preview URL: https://p.scdn.co/mp3-preview/e121b4edfec11fbe10e6aaa4248a11e2dfee2648?cid=d4831269678f41c6861370eb1e28595c
+                    by Scott & Ryceejo 
+10/24/19 18:10:514 
+                    Song name: How Does A Moment Last Forever
+                    From the album: La Bella y La Bestia (Banda Sonora Original en Español)
+                    Preview URL: null
+                    by Céline Dion 
+10/24/19 18:10:514 
+                    Song name: Beauty and the Beast Medley: How Does a Moment Last Forever / Evermore
+                    From the album: Beauty and the Beast Medley: How Does a Moment Last Forever / Evermore
+                    Preview URL: https://p.scdn.co/mp3-preview/013507d9c5d5241499cee283d91843caa97d4e5f?cid=d4831269678f41c6861370eb1e28595c
+                    by Nick Pitera 
+10/24/19 18:10:514 
+                    Song name: How Does a Moment Last Forever
+                    From the album: How Does a Moment Last Forever
+                    Preview URL: https://p.scdn.co/mp3-preview/2b1f1fc95fb3b2713414305264cdcf48335e0cc9?cid=d4831269678f41c6861370eb1e28595c
+                    by Evynne Hollens 
+10/24/19 18:10:515 
+                    Song name: How Does A Moment Last Forever
+                    From the album: Beauty and the Beast (Original Motion Picture Soundtrack)
+                    Preview URL: null
+                    by Céline Dion 
+10/24/19 18:10:514 
+                    Song name: How Does A Moment Last Forever (Music Box) - Demo
+                    From the album: Beauty and the Beast (Original Motion Picture Soundtrack/Deluxe Edition)
+                    Preview URL: null
+                    by Alan Menken 
+10/24/19 18:10:515 
+                    Song name: How Does A Moment Last Forever (Music Box)
+                    From the album: Beauty and the Beast (Originalnyi Saundtrek)
+                    Preview URL: null
+                    by Alexander Davidov 
+10/24/19 18:10:515 
+                    Song name: How Does a Moment Last Forever
+                    From the album: Disney Strings
+                    Preview URL: https://p.scdn.co/mp3-preview/77be064794cba37ac34b00aea800d887d7b9d688?cid=d4831269678f41c6861370eb1e28595c
+                    by Shirtless Violinist 
+10/24/19 18:10:516 
+                    Song name: How Does A Moment Last Forever
+                    From the album: La Belle et La Bête (Bande Originale Française du Film)
+                    Preview URL: null
+                    by Céline Dion 
+10/24/19 18:10:516 
+                    Song name: How Does A Moment Last Forever
+                    From the album: Beauty and the Beast (Kaunotar ja Hirviö) [Alkuperäinen Suomalainen Soundtrack]
+                    Preview URL: null
+                    by Céline Dion 
+10/24/19 18:10:516 
+                    Song name: How Does A Moment Last Forever
+                    From the album: Beauty and the Beast (Original Motion Picture Soundtrack / Korean Edition)
+                    Preview URL: null
+                    by Céline Dion 
+10/24/19 18:10:517 
+                    Song name: How Does A Moment Last Forever (Montmartre)
+                    From the album: Beauty and the Beast (Originalnyi Saundtrek)
+                    Preview URL: null
+                    by Julia Dovganishina 
+10/24/19 18:10:515 
+                    Song name: How Does a Moment Last Forever (From "Beauty and the Beast")
+                    From the album: Piano / Instrumental Works: Movie Score Themes, Vol. III
+                    Preview URL: https://p.scdn.co/mp3-preview/179049298b99e9bedaebb4152a0e704b602ac9fe?cid=d4831269678f41c6861370eb1e28595c
+                    by Michael Tai 
+10/24/19 18:10:516 
+                    Song name: How Does A Moment Last Forever
+                    From the album: Skjønnheten og Udyret (Originalt Norsk Soundtrack)
+                    Preview URL: null
+                    by Céline Dion 
+10/24/19 18:10:291 App Start 
+10/24/19 18:10:294 No arguments passed running inqirer 
+10/24/19 18:10:394 App Start 
+10/24/19 18:10:398 Looking up movie The+lion+the+witch+and+the+wardrobe 
+10/24/19 18:10:398 command is movie-this The+lion+the+witch+and+the+wardrobe 
+10/24/19 18:10:925 
+            Title: The Lion, the Witch and the Wardrobe
+            Release Date: 1967–
+            Rating: 8.6
+            Country: UK
+            Languange: N/A
+            Plot: N/A
+            Actors: Zuleika Robson, Liz Crowther, Jack Woolgar, Paul Waller
+            Tomatometer: 
+             
+10/24/19 18:10:722 App Start 
+10/24/19 18:10:725 command is movie-this ten+things+i+hate+about+you 
+10/24/19 18:10:726 Looking up movie ten+things+i+hate+about+you 
+10/24/19 18:10:041 data.Error 
+10/24/19 18:10:466 App Start 
+10/24/19 18:10:470 command is movie-this night+of+the+day+of+the+dawn+of+the+son+of+the+bride+of+the+return+of+the+revenge+of+terror+of+the+attack+of+the+evil+mutal+hellboung+flesh+eating+subhumanoid+zombified+living+dead+part+3 
+10/24/19 18:10:470 Looking up movie night+of+the+day+of+the+dawn+of+the+son+of+the+bride+of+the+return+of+the+revenge+of+terror+of+the+attack+of+the+evil+mutal+hellboung+flesh+eating+subhumanoid+zombified+living+dead+part+3 
+10/24/19 18:10:308 data.Error 
+10/24/19 18:10:907 App Start 
+10/24/19 18:10:911 Looking up movie how+to+lose+a+guy+in+ten+days 
+10/24/19 18:10:911 command is movie-this how+to+lose+a+guy+in+ten+days 
+10/24/19 18:10:173 data.Error 
+10/24/19 18:10:268 App Start 
+10/24/19 18:10:272 command is movie-this how+to+lose+a+guy+in+10+days 
+10/24/19 18:10:272 Looking up movie how+to+lose+a+guy+in+10+days 
+10/24/19 18:10:652 
+            Title: How to Lose a Guy in 10 Days
+            Release Date: 2003
+            Rating: 6.4
+            Country: USA, Germany
+            Languange: English
+            Plot: Benjamin Barry is an advertising executive and ladies' man who, to win a big campaign, bets that he can make a woman fall in love with him in 10 days. Andie Anderson covers the "How To" beat for "Composure" magazine and is assigned to write an article on "How to Lose a Guy in 10 days." They meet in a bar shortly after the bet is made.
+            Actors: Kate Hudson, Matthew McConaughey, Kathryn Hahn, Annie Parisse
+            Tomatometer: 42%
+             
+10/24/19 18:10:464 command is movie-this how+to+lose+a+guy+in+10+days 
+10/24/19 18:10:468 Looking up movie how+to+lose+a+guy+in+10+days 
+10/24/19 18:10:469 App Start 
+10/24/19 18:10:521 
+            Title: How to Lose a Guy in 10 Days
+            Release Date: 2003
+            Rating: 6.4
+            Country: USA, Germany
+            Languange: English
+            Plot: Benjamin Barry is an advertising executive and ladies' man who, to win a big campaign, bets that he can make a woman fall in love with him in 10 days. Andie Anderson covers the "How To" beat for "Composure" magazine and is assigned to write an article on "How to Lose a Guy in 10 days." They meet in a bar shortly after the bet is made.
+            Actors: Kate Hudson, Matthew McConaughey, Kathryn Hahn, Annie Parisse
+            Tomatometer: 42%
+             
+10/24/19 18:10:829 App Start 
+10/24/19 18:10:832 No arguments passed running inqirer 
+10/24/19 18:10:887 No arguments passed running inqirer 
+10/24/19 18:10:891 App Start 
+10/24/19 18:10:049 App Start 
+10/24/19 18:10:052 No arguments passed running inqirer 
+10/24/19 18:10:443 App Start 
+10/24/19 18:10:446 No arguments passed running inqirer 
+10/24/19 18:10:249 App Start 
+10/24/19 18:10:252 No arguments passed running inqirer 
+10/24/19 18:10:506 No arguments passed running inqirer 
+10/24/19 18:10:511 App Start 
+10/24/19 18:10:589 App Start 
+10/24/19 18:10:593 command is do-what-it-says package.json 
+10/24/19 18:10:552 App Start 
+10/24/19 18:10:556 command is do-what-it-says ./package.json 
+10/24/19 18:10:442 App Start 
+10/24/19 18:10:445 command is do-what-it-says random.txt 
+10/24/19 18:10:447 Running spotify-this 
+10/24/19 18:10:239 Song entry is "I Want it That Way" 
+10/24/19 18:10:240 
+                    Song name: I Want It That Way
+                    From the album: Millennium
+                    Preview URL: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=d4831269678f41c6861370eb1e28595c
+                    by Backstreet Boys 
+10/24/19 18:10:240 Total entries found: 562 only showing 20 
+10/24/19 18:10:241 
+                    Song name: I Want It That Way
+                    From the album: The Hits--Chapter One
+                    Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=d4831269678f41c6861370eb1e28595c
+                    by Backstreet Boys 
+10/24/19 18:10:241 
+                    Song name: I Want It That Way
+                    From the album: I Want It That Way
+                    Preview URL: null
+                    by Steel Panther 
+10/24/19 18:10:242 
+                    Song name: I Want It That Way
+                    From the album: Under the Covers, Vol. 3
+                    Preview URL: https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=d4831269678f41c6861370eb1e28595c
+                    by Jess and Gabriel 
+10/24/19 18:10:242 
+                    Song name: I Want It That Way
+                    From the album: I Want It That Way
+                    Preview URL: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=d4831269678f41c6861370eb1e28595c
+                    by Mick Jensen 
+10/24/19 18:10:243 
+                    Song name: I Want It That Way
+                    From the album: Covers Part IV
+                    Preview URL: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=d4831269678f41c6861370eb1e28595c
+                    by Anthem Lights 
+10/24/19 18:10:243 
+                    Song name: I Want It That Way
+                    From the album: Beautiful Dreams
+                    Preview URL: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=d4831269678f41c6861370eb1e28595c
+                    by Tyler and Mark 
+10/24/19 18:10:243 
+                    Song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+                    From the album: Poodle Hat
+                    Preview URL: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=d4831269678f41c6861370eb1e28595c
+                    by "Weird Al" Yankovic 
+10/24/19 18:10:245 
+                    Song name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+                    From the album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+                    Preview URL: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=d4831269678f41c6861370eb1e28595c
+                    by Glee Cast 
+10/24/19 18:10:244 
+                    Song name: I Want It That Way - Reimagined
+                    From the album: I Want It That Way (Reimagined)
+                    Preview URL: https://p.scdn.co/mp3-preview/7f612d6ba66571500e981e74bb36e14b9906be77?cid=d4831269678f41c6861370eb1e28595c
+                    by Backstreet Boys 
+10/24/19 18:10:245 
+                    Song name: I Want It That Way
+                    From the album: Selfies on Kodachrome
+                    Preview URL: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=d4831269678f41c6861370eb1e28595c
+                    by Scott Bradlee's Postmodern Jukebox,Shoshana Bean 
+10/24/19 18:10:246 
+                    Song name: I Want it That Way
+                    From the album: Piano Covers of Hits from 1999
+                    Preview URL: https://p.scdn.co/mp3-preview/42336ba0f32ffbd534b942b024019f27fba27882?cid=d4831269678f41c6861370eb1e28595c
+                    by Piano Project 
+10/24/19 18:10:244 
+                    Song name: I Want It That Way
+                    From the album: Musicbox
+                    Preview URL: https://p.scdn.co/mp3-preview/8523cf42da67b41a5fce8f56c9dfd14d5ecb39a5?cid=d4831269678f41c6861370eb1e28595c
+                    by Nineties Legends 
+10/24/19 18:10:246 
+                    Song name: I Want It That Way
+                    From the album: 90 Sweet 90s Hits!
+                    Preview URL: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=d4831269678f41c6861370eb1e28595c
+                    by Backstreet Boys 
+10/24/19 18:10:245 
+                    Song name: I Want It That Way
+                    From the album: Nu Funk
+                    Preview URL: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=d4831269678f41c6861370eb1e28595c
+                    by Scary Pockets,Casey Abrams 
+10/24/19 18:10:247 
+                    Song name: I Want It That Way
+                    From the album: I Want It That Way
+                    Preview URL: null
+                    by Manuel Costa 
+10/24/19 18:10:247 
+                    Song name: I Want It That Way
+                    From the album: Punk Goes Pop
+                    Preview URL: null
+                    by Dynamite Boy 
+10/24/19 18:10:248 
+                    Song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+                    From the album: The Essential "Weird Al" Yankovic
+                    Preview URL: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=d4831269678f41c6861370eb1e28595c
+                    by "Weird Al" Yankovic 
+10/24/19 18:10:247 
+                    Song name: I Want It That Way
+                    From the album: NKOTBSB
+                    Preview URL: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=d4831269678f41c6861370eb1e28595c
+                    by Backstreet Boys 
+10/24/19 18:10:250 
+                    Song name: I Want It That Way
+                    From the album: Cover Sessions, Vol. 2
+                    Preview URL: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=d4831269678f41c6861370eb1e28595c
+                    by Boyce Avenue 
+10/24/19 18:10:503 App Start 
+10/24/19 18:10:509 command is do-what-it-says random.txt 
+10/24/19 18:10:512 Running spotify-this 
+10/24/19 18:10:513 command is spotify-this-song and argument is spotify-this-song,"I Want it That Way" 
+10/24/19 18:10:238 
+                    Song name: I Want It That Way
+                    From the album: The Hits--Chapter One
+                    Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=d4831269678f41c6861370eb1e28595c
+                    by Backstreet Boys 
+10/24/19 18:10:239 
+                    Song name: I Want It That Way
+                    From the album: Covers Part IV
+                    Preview URL: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=d4831269678f41c6861370eb1e28595c
+                    by Anthem Lights 
+10/24/19 18:10:240 
+                    Song name: I Want It That Way
+                    From the album: Musicbox
+                    Preview URL: https://p.scdn.co/mp3-preview/8523cf42da67b41a5fce8f56c9dfd14d5ecb39a5?cid=d4831269678f41c6861370eb1e28595c
+                    by Nineties Legends 
+10/24/19 18:10:240 
+                    Song name: I Want It That Way
+                    From the album: Millennium
+                    Preview URL: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=d4831269678f41c6861370eb1e28595c
+                    by Backstreet Boys 
+10/24/19 18:10:241 
+                    Song name: I Want It That Way
+                    From the album: I Want It That Way
+                    Preview URL: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=d4831269678f41c6861370eb1e28595c
+                    by Mick Jensen 
+10/24/19 18:10:241 
+                    Song name: I Want It That Way
+                    From the album: Punk Goes Pop
+                    Preview URL: null
+                    by Dynamite Boy 
+10/24/19 18:10:242 
+                    Song name: I Want It That Way - Reimagined
+                    From the album: I Want It That Way (Reimagined)
+                    Preview URL: https://p.scdn.co/mp3-preview/7f612d6ba66571500e981e74bb36e14b9906be77?cid=d4831269678f41c6861370eb1e28595c
+                    by Backstreet Boys 
+10/24/19 18:10:242 
+                    Song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+                    From the album: Poodle Hat
+                    Preview URL: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=d4831269678f41c6861370eb1e28595c
+                    by "Weird Al" Yankovic 
+10/24/19 18:10:243 Song entry is "I Want it That Way" 
+10/24/19 18:10:243 
+                    Song name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+                    From the album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+                    Preview URL: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=d4831269678f41c6861370eb1e28595c
+                    by Glee Cast 
+10/24/19 18:10:244 
+                    Song name: I Want It That Way
+                    From the album: Under the Covers, Vol. 3
+                    Preview URL: https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=d4831269678f41c6861370eb1e28595c
+                    by Jess and Gabriel 
+10/24/19 18:10:245 
+                    Song name: I Want It That Way
+                    From the album: I Want It That Way
+                    Preview URL: null
+                    by Steel Panther 
+10/24/19 18:10:244 
+                    Song name: I Want It That Way
+                    From the album: Beautiful Dreams
+                    Preview URL: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=d4831269678f41c6861370eb1e28595c
+                    by Tyler and Mark 
+10/24/19 18:10:248 
+                    Song name: I Want It That Way
+                    From the album: NKOTBSB
+                    Preview URL: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=d4831269678f41c6861370eb1e28595c
+                    by Backstreet Boys 
+10/24/19 18:10:249 
+                    Song name: I Want It That Way
+                    From the album: Cover Sessions, Vol. 2
+                    Preview URL: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=d4831269678f41c6861370eb1e28595c
+                    by Boyce Avenue 
+10/24/19 18:10:249 
+                    Song name: I Want It That Way
+                    From the album: I Want It That Way
+                    Preview URL: null
+                    by Manuel Costa 
+10/24/19 18:10:249 
+                    Song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+                    From the album: The Essential "Weird Al" Yankovic
+                    Preview URL: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=d4831269678f41c6861370eb1e28595c
+                    by "Weird Al" Yankovic 
+10/24/19 18:10:250 
+                    Song name: I Want It That Way
+                    From the album: 90 Sweet 90s Hits!
+                    Preview URL: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=d4831269678f41c6861370eb1e28595c
+                    by Backstreet Boys 
+10/24/19 18:10:250 
+                    Song name: I Want it That Way
+                    From the album: Piano Covers of Hits from 1999
+                    Preview URL: https://p.scdn.co/mp3-preview/42336ba0f32ffbd534b942b024019f27fba27882?cid=d4831269678f41c6861370eb1e28595c
+                    by Piano Project 
+10/24/19 18:10:250 
+                    Song name: I Want It That Way
+                    From the album: Selfies on Kodachrome
+                    Preview URL: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=d4831269678f41c6861370eb1e28595c
+                    by Scott Bradlee's Postmodern Jukebox,Shoshana Bean 
+10/24/19 18:10:251 
+                    Song name: I Want It That Way
+                    From the album: Nu Funk
+                    Preview URL: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=d4831269678f41c6861370eb1e28595c
+                    by Scary Pockets,Casey Abrams 
+10/24/19 18:10:251 Total entries found: 562 only showing 20 
+10/24/19 18:10:724 App Start 
+10/24/19 18:10:728 command is do-what-it-says random.txt 
+10/24/19 18:10:729 Running spotify-this 
+10/24/19 18:10:730 command is spotify-this-song and argument is spotify-this-song,"I Want it That Way" 
+10/24/19 18:10:383 
+                    Song name: I Want It That Way
+                    From the album: Millennium
+                    Preview URL: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=d4831269678f41c6861370eb1e28595c
+                    by Backstreet Boys 
+10/24/19 18:10:384 
+                    Song name: I Want It That Way
+                    From the album: The Hits--Chapter One
+                    Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=d4831269678f41c6861370eb1e28595c
+                    by Backstreet Boys 
+10/24/19 18:10:384 Total entries found: 562 only showing 20 
+10/24/19 18:10:385 Song entry is "I Want it That Way" 
+10/24/19 18:10:385 
+                    Song name: I Want It That Way
+                    From the album: Musicbox
+                    Preview URL: https://p.scdn.co/mp3-preview/8523cf42da67b41a5fce8f56c9dfd14d5ecb39a5?cid=d4831269678f41c6861370eb1e28595c
+                    by Nineties Legends 
+10/24/19 18:10:386 
+                    Song name: I Want It That Way
+                    From the album: Beautiful Dreams
+                    Preview URL: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=d4831269678f41c6861370eb1e28595c
+                    by Tyler and Mark 
+10/24/19 18:10:386 
+                    Song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+                    From the album: Poodle Hat
+                    Preview URL: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=d4831269678f41c6861370eb1e28595c
+                    by "Weird Al" Yankovic 
+10/24/19 18:10:386 
+                    Song name: I Want It That Way
+                    From the album: Covers Part IV
+                    Preview URL: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=d4831269678f41c6861370eb1e28595c
+                    by Anthem Lights 
+10/24/19 18:10:387 
+                    Song name: I Want It That Way - Reimagined
+                    From the album: I Want It That Way (Reimagined)
+                    Preview URL: https://p.scdn.co/mp3-preview/7f612d6ba66571500e981e74bb36e14b9906be77?cid=d4831269678f41c6861370eb1e28595c
+                    by Backstreet Boys 
+10/24/19 18:10:387 
+                    Song name: I Want It That Way
+                    From the album: I Want It That Way
+                    Preview URL: null
+                    by Steel Panther 
+10/24/19 18:10:388 
+                    Song name: I Want It That Way
+                    From the album: Punk Goes Pop
+                    Preview URL: null
+                    by Dynamite Boy 
+10/24/19 18:10:386 
+                    Song name: I Want It That Way
+                    From the album: I Want It That Way
+                    Preview URL: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=d4831269678f41c6861370eb1e28595c
+                    by Mick Jensen 
+10/24/19 18:10:388 
+                    Song name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+                    From the album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+                    Preview URL: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=d4831269678f41c6861370eb1e28595c
+                    by Glee Cast 
+10/24/19 18:10:388 
+                    Song name: I Want It That Way
+                    From the album: NKOTBSB
+                    Preview URL: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=d4831269678f41c6861370eb1e28595c
+                    by Backstreet Boys 
+10/24/19 18:10:389 
+                    Song name: I Want It That Way
+                    From the album: 90 Sweet 90s Hits!
+                    Preview URL: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=d4831269678f41c6861370eb1e28595c
+                    by Backstreet Boys 
+10/24/19 18:10:389 
+                    Song name: I Want It That Way
+                    From the album: Under the Covers, Vol. 3
+                    Preview URL: https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=d4831269678f41c6861370eb1e28595c
+                    by Jess and Gabriel 
+10/24/19 18:10:392 
+                    Song name: I Want It That Way
+                    From the album: Cover Sessions, Vol. 2
+                    Preview URL: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=d4831269678f41c6861370eb1e28595c
+                    by Boyce Avenue 
+10/24/19 18:10:392 
+                    Song name: I Want it That Way
+                    From the album: Piano Covers of Hits from 1999
+                    Preview URL: https://p.scdn.co/mp3-preview/42336ba0f32ffbd534b942b024019f27fba27882?cid=d4831269678f41c6861370eb1e28595c
+                    by Piano Project 
+10/24/19 18:10:393 
+                    Song name: I Want It That Way
+                    From the album: I Want It That Way
+                    Preview URL: null
+                    by Manuel Costa 
+10/24/19 18:10:393 
+                    Song name: I Want It That Way
+                    From the album: Nu Funk
+                    Preview URL: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=d4831269678f41c6861370eb1e28595c
+                    by Scary Pockets,Casey Abrams 
+10/24/19 18:10:393 
+                    Song name: I Want It That Way
+                    From the album: Selfies on Kodachrome
+                    Preview URL: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=d4831269678f41c6861370eb1e28595c
+                    by Scott Bradlee's Postmodern Jukebox,Shoshana Bean 
+10/24/19 18:10:394 
+                    Song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+                    From the album: The Essential "Weird Al" Yankovic
+                    Preview URL: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=d4831269678f41c6861370eb1e28595c
+                    by "Weird Al" Yankovic 
+10/26/19 10:10:720 App Start 
+10/26/19 10:10:736 command is concert-this queen 
+10/26/19 10:10:393 results: No concerts found!
+ 
+10/26/19 10:10:324 command is concert-this jonas+brothers 
+10/26/19 10:10:329 App Start 
+10/26/19 10:10:992 
+                    Venue: Legacy Arena at the BJCC, Birmingham, AL United States
+                    Date: 11/13/2019 
+10/26/19 10:10:993 
+                    Venue: Arena VFG, Fraccionamiento Los Silos,  Mexico
+                    Date: 11/02/2019 
+10/26/19 10:10:994 Search results start:
+ 
+10/26/19 10:10:994 
+                    Venue: Palacio de los Deportes, Ciudad De México,  Mexico
+                    Date: 10/30/2019 
+10/26/19 10:10:995 
+                    Venue: Amway Center, Orlando, FL United States
+                    Date: 11/16/2019 
+10/26/19 10:10:995 
+                    Venue: VyStar Veterans Memorial Arena, Jacksonville, FL United States
+                    Date: 11/17/2019 
+10/26/19 10:10:995 
+                    Venue: Palacio de los Deportes, Ciudad De México,  Mexico
+                    Date: 10/31/2019 
+10/26/19 10:10:996 
+                    Venue: Smoothie King Center, New Orleans, LA United States
+                    Date: 11/12/2019 
+10/26/19 10:10:996 
+                    Venue: Infinite Energy Arena, Duluth, GA United States
+                    Date: 11/19/2019 
+10/26/19 10:10:997 
+                    Venue: BB&T Center, Sunrise, FL United States
+                    Date: 11/15/2019 
+10/26/19 10:10:997 
+                    Venue: Auditorio Citibanamex, Monterrey,  Mexico
+                    Date: 10/28/2019 
+10/26/19 10:10:997 
+                    Venue: Scotiabank Arena, Toronto,  Canada
+                    Date: 11/26/2019 
+10/26/19 10:10:999 
+                    Venue: Allstate Arena, Rosemont, IL United States
+                    Date: 12/03/2019 
+10/26/19 10:10:000 
+                    Venue: Prudential Center, Newark, NJ United States
+                    Date: 11/22/2019 
+10/26/19 10:10:993 
+                    Venue: Auditorio Citibanamex, Monterrey,  Mexico
+                    Date: 10/27/2019 
+10/26/19 10:10:000 
+                    Venue: CHI Health Center Omaha, Omaha, NE United States
+                    Date: 12/04/2019 
+10/26/19 10:10:001 
+                    Venue: Royal Farms Arena, Baltimore, MD United States
+                    Date: 11/30/2019 
+10/26/19 10:10:000 
+                    Venue: The Forum, Los Angeles, CA United States
+                    Date: 12/14/2019 
+10/26/19 10:10:002 
+                    Venue: American Airlines Center, Dallas, TX United States
+                    Date: 12/06/2019 
+10/26/19 10:10:001 
+                    Venue: Barclays Center, Brooklyn, NY United States
+                    Date: 11/23/2019 
+10/26/19 10:10:002 
+                    Venue: Fontainebleau Miami Beach, Miami Beach, FL United States
+                    Date: 12/31/2019 
+10/26/19 10:10:001 
+                    Venue: TD Garden, Boston, MA United States
+                    Date: 11/24/2019 
+10/26/19 10:10:002 
+                    Venue: Boardwalk Hall, Atlantic City, NJ United States
+                    Date: 11/29/2019 
+10/26/19 10:10:003 
+                    Venue: Talking Stick Resort Arena, Phoenix, AZ United States
+                    Date: 12/10/2019 
+10/26/19 10:10:004 
+                    Venue: Frank C. Erwin, Jr., Special Events Center, Austin, TX United States
+                    Date: 12/07/2019 
+10/26/19 10:10:004 
+                    Venue: The Cove Atlantis, Nassau,  Bahamas
+                    Date: 12/30/2019 
+10/26/19 10:10:004 
+                    Venue: The Forum, Los Angeles, CA United States
+                    Date: 12/15/2019 
+10/26/19 10:10:005 
+                    Venue: BB&T Center, Sunrise, FL United States
+                    Date: 12/22/2019 
+10/26/19 10:10:005 
+                    Venue: Oracle Arena, Oakland, CA United States
+                    Date: 12/12/2019 
+10/26/19 10:10:006 
+                    Venue: Arena Birmingham, Birmingham,  United Kingdom
+                    Date: 01/29/2020 
+10/26/19 10:10:007 
+                    Venue: Allstate Arena, Rosemont, IL United States
+                    Date: 12/18/2019 
+10/26/19 10:10:008 
+                    Venue: The SSE Arena, Wembley, London,  United Kingdom
+                    Date: 02/03/2020 
+10/26/19 10:10:008 
+                    Venue: 3Arena, Dublin 1,  Ireland
+                    Date: 01/31/2020 
+10/26/19 10:10:009 
+                    Venue: Wizin Center, Madrid,  Spain
+                    Date: 02/16/2020 
+10/26/19 10:10:009 
+                    Venue: Mediolanum Forum, Assago,  Italy
+                    Date: 02/14/2020 
+10/26/19 10:10:010 
+                    Venue: The SSE Hydro, Glasgow,  United Kingdom
+                    Date: 02/05/2020 
+10/26/19 10:10:010 
+                    Venue: Mercedes-Benz Arena, Berlin,  Germany
+                    Date: 02/10/2020 
+10/26/19 10:10:011 
+                    Venue: Manchester Arena, Manchester,  United Kingdom
+                    Date: 02/06/2020 
+10/26/19 10:10:012 
+                    Venue: AccorHotels Arena, Paris,  France
+                    Date: 02/22/2020 
+10/26/19 10:10:012 
+                    Venue: Lanxess Arena, Köln,  Germany
+                    Date: 02/11/2020 
+10/26/19 10:10:006 
+                    Venue: The O2, London,  United Kingdom
+                    Date: 02/02/2020 
+10/26/19 10:10:013 
+                    Venue: Lotto Arena, Antwerpen,  Belgium
+                    Date: 02/08/2020 
+10/26/19 10:10:007 
+                    Venue: State Farm Arena, Atlanta, GA United States
+                    Date: 12/20/2019 
+10/26/19 10:10:014 
+                    Venue: Ziggo Dome, Amsterdam,  Netherlands
+                    Date: 02/20/2020 
+10/26/19 10:10:003 
+                    Venue: Bell Centre, Montreal,  Canada
+                    Date: 11/27/2019 
+10/26/19 10:10:015 
+                    Venue: Hallenstadion, Zürich,  Switzerland
+                    Date: 02/13/2020 
+10/26/19 10:10:014 
+                    Venue: Palau Sant Jordi, Barcelona,  Spain
+                    Date: 02/17/2020 
+10/26/19 10:10:015 
+                    Venue: SUD DE FRANCE ARENA, Pérols,  France
+                    Date: 02/18/2020 
+10/26/19 10:10:015 Search results end
+ 
+10/26/19 10:10:016 
+                    Venue: Spectrum Center, Charlotte, NC United States
+                    Date: 11/20/2019 
+10/26/19 10:10:382 App Start 
+10/26/19 10:10:386 Running spotify-this 
+10/26/19 10:10:387 command is spotify-this-song 23r2ef 
+10/26/19 10:10:558 Song entry is 23r2ef 
+10/26/19 10:10:623 Song not found! 
+10/26/19 10:10:623 
+                            Song name: The Sign
+                            From the album: The Sign (US Album) [Remastered]
+                            Preview URL: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=d4831269678f41c6861370eb1e28595c
+                            by Ace of Base 
+10/26/19 10:10:674 Running spotify-this 
+10/26/19 10:10:679 command is spotify-this-song thunderstruck 
+10/26/19 10:10:678 App Start 
+10/26/19 10:10:009 
+                    Song name: Thunderstruck
+                    From the album: Iron Man 2
+                    Preview URL: https://p.scdn.co/mp3-preview/2d9544a444030dbf6f506c4c9bd5ae5708bc59f8?cid=d4831269678f41c6861370eb1e28595c
+                    by AC/DC 
+10/26/19 10:10:009 Song entry is thunderstruck 
+10/26/19 10:10:010 Total entries found: 1288 only showing 20 
+10/26/19 10:10:011 
+                    Song name: Thunderstruck - Live at River Plate Stadium, Buenos Aires, Argentina - December 2009
+                    From the album: Live at River Plate
+                    Preview URL: https://p.scdn.co/mp3-preview/85b09339b584e8493b7a0b48086e9c68be4502d2?cid=d4831269678f41c6861370eb1e28595c
+                    by AC/DC 
+10/26/19 10:10:011 
+                    Song name: Thunderstruck
+                    From the album: The Razors Edge
+                    Preview URL: https://p.scdn.co/mp3-preview/3885f542871846183fefbd009577c95f5f46b0af?cid=d4831269678f41c6861370eb1e28595c
+                    by AC/DC 
+10/26/19 10:10:010 
+                    Song name: Thunderstruck - Live - 1991
+                    From the album: Live
+                    Preview URL: https://p.scdn.co/mp3-preview/f610e4a673c9531c11a6014a10d12b45043da43f?cid=d4831269678f41c6861370eb1e28595c
+                    by AC/DC 
+10/26/19 10:10:012 
+                    Song name: Thunderstruck
+                    From the album: Mobile Orchestra
+                    Preview URL: null
+                    by Owl City,Sarah Russell 
+10/26/19 10:10:013 
+                    Song name: Thunderstruck (Intro)
+                    From the album: Celloverse
+                    Preview URL: https://p.scdn.co/mp3-preview/9a9604e3fa7dbf19b28c5982e2ab4d4b64576646?cid=d4831269678f41c6861370eb1e28595c
+                    by 2CELLOS 
+10/26/19 10:10:012 
+                    Song name: Thunderstruck
+                    From the album: Celloverse
+                    Preview URL: https://p.scdn.co/mp3-preview/64fde2b28267c3303bf800fe61016e0a239d2824?cid=d4831269678f41c6861370eb1e28595c
+                    by 2CELLOS 
+10/26/19 10:10:013 
+                    Song name: Thunderstruck
+                    From the album: Farm Machine
+                    Preview URL: null
+                    by Steve ´n´ Seagulls 
+10/26/19 10:10:014 
+                    Song name: Thunderstruck - Live - 1991
+                    From the album: Live (Collector's Edition)
+                    Preview URL: https://p.scdn.co/mp3-preview/deca3d726f815e1801fad12e3e99c067c3e79a89?cid=d4831269678f41c6861370eb1e28595c
+                    by AC/DC 
+10/26/19 10:10:014 
+                    Song name: Thunderstruck
+                    From the album: Ultimate Sports Anthems - Stadium Classics
+                    Preview URL: https://p.scdn.co/mp3-preview/ef53b16594d0cc06ccb4617ed2207fd6eba25fd2?cid=d4831269678f41c6861370eb1e28595c
+                    by The Fanatics 
+10/26/19 10:10:016 
+                    Song name: Thunderstruck
+                    From the album: Luca Stricagnoli
+                    Preview URL: https://p.scdn.co/mp3-preview/52ac40b35c312c6c2b162b6bc0498809287aeea2?cid=d4831269678f41c6861370eb1e28595c
+                    by Luca Stricagnoli 
+10/26/19 10:10:014 
+                    Song name: Thunderstruck
+                    From the album: Club Rock Party Mix
+                    Preview URL: https://p.scdn.co/mp3-preview/67b88fc05a6ef8f9e52407e8f9ecde8f1b9a2287?cid=d4831269678f41c6861370eb1e28595c
+                    by DJ Crazy J Rodriguez 
+10/26/19 10:10:017 
+                    Song name: Thunderstruck
+                    From the album: Lullaby Renditions of Ac/Dc
+                    Preview URL: https://p.scdn.co/mp3-preview/2acdde09645738d906f5c803695dfc89c8a43d34?cid=d4831269678f41c6861370eb1e28595c
+                    by Rockabye Baby! 
+10/26/19 10:10:017 
+                    Song name: Thunderstruck (Metal Version)
+                    From the album: Thunderstruck (Metal Version)
+                    Preview URL: https://p.scdn.co/mp3-preview/3d2f1468c14cc1a71870c446019ca9d4fc3fb3b9?cid=d4831269678f41c6861370eb1e28595c
+                    by Leo,Peter Honoré 
+10/26/19 10:10:018 
+                    Song name: Thunderstruck (AC/DC Meets Beethoven)
+                    From the album: Thunderstruck (AC/DC Meets Beethoven)
+                    Preview URL: https://p.scdn.co/mp3-preview/09358d289ba074b55f7ef202f0438804de6cec22?cid=d4831269678f41c6861370eb1e28595c
+                    by Peter Bence 
+10/26/19 10:10:019 
+                    Song name: Thunderstruck
+                    From the album: David Garrett
+                    Preview URL: null
+                    by David Garrett 
+10/26/19 10:10:017 
+                    Song name: Thunderstruck (Metal Version)
+                    From the album: Leo Metal, Vol. 22
+                    Preview URL: https://p.scdn.co/mp3-preview/3d2f1468c14cc1a71870c446019ca9d4fc3fb3b9?cid=d4831269678f41c6861370eb1e28595c
+                    by Leo,Peter Honoré 
+10/26/19 10:10:018 
+                    Song name: Highway To Hell / Sweet Child Of Mine / Smoke On The Water / Thunderstruck / Fourth Floor
+                    From the album: Live At The Lake 2014
+                    Preview URL: https://p.scdn.co/mp3-preview/f6a8467c4300b77b96fd24828a1d01d4ab3f339b?cid=d4831269678f41c6861370eb1e28595c
+                    by Red Hot Chilli Pipers 
+10/26/19 10:10:019 
+                    Song name: Thunderstruck
+                    From the album: Tres
+                    Preview URL: https://p.scdn.co/mp3-preview/8dff79c33f16451741d796a843323276e781935a?cid=d4831269678f41c6861370eb1e28595c
+                    by Metalachi 
+10/26/19 10:10:020 
+                    Song name: Thunderstruck
+                    From the album: Batang (Feat. James Morrison)
+                    Preview URL: https://p.scdn.co/mp3-preview/c42d56d166917b2ce6cb7775369114b6b7f51103?cid=d4831269678f41c6861370eb1e28595c
+                    by Bullhorns 
+10/26/19 10:10:915 Looking up movie matrix 
+10/26/19 10:10:920 command is movie-this matrix 
+10/26/19 10:10:919 App Start 
+10/26/19 10:10:169 
+            Title: Matrix
+            Release Date: 1993–
+            Rating: 7.8
+            Country: Canada
+            Languange: English
+            Plot: Steven Matrix is one of the underworld's foremost hitmen until his luck runs out, and someone puts a contract out on him. Shot in the forehead by a .22 pistol, Matrix "dies" and finds ...
+            Actors: Nick Mancuso, Phillip Jarrett, Carrie-Anne Moss, John Vernon
+            Tomatometer: 
+             
+10/26/19 10:10:030 command is movie-this this+is+a+movie 
+10/26/19 10:10:034 App Start 
+10/26/19 10:10:034 Looking up movie this+is+a+movie 
+10/26/19 10:10:256 data.Error 
+10/26/19 10:10:266 App Start 
+10/26/19 10:10:270 Looking up movie Lion+King 
+10/26/19 10:10:270 command is movie-this Lion+King 
+10/26/19 10:10:455 
+            Title: The Lion King
+            Release Date: 1994
+            Rating: 8.5
+            Country: USA
+            Languange: English, Swahili, Xhosa, Zulu
+            Plot: A Lion cub crown prince is tricked by a treacherous uncle into thinking he caused his father's death and flees into exile in despair, only to learn in adulthood his identity and his responsibilities.
+            Actors: Rowan Atkinson, Matthew Broderick, Niketa Calame-Harris, Jim Cummings
+            Tomatometer: 93%
+             
+10/26/19 10:10:940 command is do-what-it-says random.txt 
+10/26/19 10:10:944 App Start 
+10/26/19 10:10:982 Running spotify-this 
+10/26/19 10:10:983 command is spotify-this-song and argument is spotify-this-song,"I Want it That Way" 
+10/26/19 10:10:378 
+                    Song name: I Want It That Way
+                    From the album: The Hits--Chapter One
+                    Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=d4831269678f41c6861370eb1e28595c
+                    by Backstreet Boys 
+10/26/19 10:10:378 Song entry is "I Want it That Way" 
+10/26/19 10:10:379 
+                    Song name: I Want It That Way
+                    From the album: Millennium
+                    Preview URL: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=d4831269678f41c6861370eb1e28595c
+                    by Backstreet Boys 
+10/26/19 10:10:380 Total entries found: 562 only showing 20 
+10/26/19 10:10:379 
+                    Song name: I Want It That Way
+                    From the album: I Want It That Way
+                    Preview URL: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=d4831269678f41c6861370eb1e28595c
+                    by Mick Jensen 
+10/26/19 10:10:380 
+                    Song name: I Want It That Way
+                    From the album: Covers Part IV
+                    Preview URL: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=d4831269678f41c6861370eb1e28595c
+                    by Anthem Lights 
+10/26/19 10:10:381 
+                    Song name: I Want It That Way
+                    From the album: Punk Goes Pop
+                    Preview URL: null
+                    by Dynamite Boy 
+10/26/19 10:10:382 
+                    Song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+                    From the album: Poodle Hat
+                    Preview URL: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=d4831269678f41c6861370eb1e28595c
+                    by "Weird Al" Yankovic 
+10/26/19 10:10:383 
+                    Song name: I Want It That Way
+                    From the album: Beautiful Dreams
+                    Preview URL: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=d4831269678f41c6861370eb1e28595c
+                    by Tyler and Mark 
+10/26/19 10:10:382 
+                    Song name: I Want It That Way
+                    From the album: Under the Covers, Vol. 3
+                    Preview URL: https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=d4831269678f41c6861370eb1e28595c
+                    by Jess and Gabriel 
+10/26/19 10:10:383 
+                    Song name: I Want It That Way - Reimagined
+                    From the album: I Want It That Way (Reimagined)
+                    Preview URL: https://p.scdn.co/mp3-preview/7f612d6ba66571500e981e74bb36e14b9906be77?cid=d4831269678f41c6861370eb1e28595c
+                    by Backstreet Boys 
+10/26/19 10:10:384 
+                    Song name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+                    From the album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+                    Preview URL: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=d4831269678f41c6861370eb1e28595c
+                    by Glee Cast 
+10/26/19 10:10:382 
+                    Song name: I Want It That Way
+                    From the album: Musicbox
+                    Preview URL: https://p.scdn.co/mp3-preview/8523cf42da67b41a5fce8f56c9dfd14d5ecb39a5?cid=d4831269678f41c6861370eb1e28595c
+                    by Nineties Legends 
+10/26/19 10:10:384 
+                    Song name: I Want It That Way
+                    From the album: I Want It That Way
+                    Preview URL: null
+                    by Steel Panther 
+10/26/19 10:10:386 
+                    Song name: I Want It That Way
+                    From the album: I Want It That Way
+                    Preview URL: null
+                    by Manuel Costa 
+10/26/19 10:10:387 
+                    Song name: I Want It That Way
+                    From the album: 90 Sweet 90s Hits!
+                    Preview URL: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=d4831269678f41c6861370eb1e28595c
+                    by Backstreet Boys 
+10/26/19 10:10:387 
+                    Song name: I Want It That Way
+                    From the album: Cover Sessions, Vol. 2
+                    Preview URL: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=d4831269678f41c6861370eb1e28595c
+                    by Boyce Avenue 
+10/26/19 10:10:388 
+                    Song name: I Want It That Way
+                    From the album: Nu Funk
+                    Preview URL: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=d4831269678f41c6861370eb1e28595c
+                    by Scary Pockets,Casey Abrams 
+10/26/19 10:10:388 
+                    Song name: I Want It That Way
+                    From the album: NKOTBSB
+                    Preview URL: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=d4831269678f41c6861370eb1e28595c
+                    by Backstreet Boys 
+10/26/19 10:10:389 
+                    Song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+                    From the album: The Essential "Weird Al" Yankovic
+                    Preview URL: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=d4831269678f41c6861370eb1e28595c
+                    by "Weird Al" Yankovic 
+10/26/19 10:10:390 
+                    Song name: I Want It That Way
+                    From the album: Selfies on Kodachrome
+                    Preview URL: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=d4831269678f41c6861370eb1e28595c
+                    by Scott Bradlee's Postmodern Jukebox,Shoshana Bean 
+10/26/19 10:10:390 
+                    Song name: I Want it That Way
+                    From the album: Piano Covers of Hits from 1999
+                    Preview URL: https://p.scdn.co/mp3-preview/42336ba0f32ffbd534b942b024019f27fba27882?cid=d4831269678f41c6861370eb1e28595c
+                    by Piano Project 
